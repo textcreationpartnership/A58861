@@ -1,0 +1,3599 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Homer A la Mode a mock poem upon the first and second books of Homer's Iliads.</title>
+            <author>Scudamore, James, 1624-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 65 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58861</idno>
+            <idno type="STC">Wing S2131</idno>
+            <idno type="STC">ESTC R7260</idno>
+            <idno type="EEBO-CITATION">13510821</idno>
+            <idno type="OCLC">ocm 13510821</idno>
+            <idno type="VID">99842</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99842)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 475:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Homer A la Mode a mock poem upon the first and second books of Homer's Iliads.</title>
+                  <author>Scudamore, James, 1624-1668.</author>
+                  <author>Scudamore, James, 1641 or 2-1666.</author>
+               </titleStmt>
+               <extent>[8], 120 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. H. for Ric. Davis,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to James Scudamore. Cf. NUC pre-1956.</note>
+                  <note>Sometimes attributed to James, son of John Scudamore, 1st viscount Scudamore. Cf. DNB. 2nd ed. XVII, 1094.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99842:1"/>
+            <pb facs="tcp:99842:1"/>
+            <p>Homer <hi>A la Mode.</hi> A MOCK POEM UPON THE FIRST, AND SECOND BOOKS <hi>OF HOMER'S</hi> ILIADS.</p>
+            <q>
+               <lg>
+                  <l>Hoc ridere meum tam nil nullâ tibi vendo</l>
+                  <l>Iliade.——</l>
+                  <l>Et ſua riſerunt tempora <hi>Maeoniden.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>—One for Senſe, and one for Rime,</l>
+                  <l>I think's ſufficient at one time.</l>
+               </lg>
+               <bibl>HUDIBR.</bibl>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>H. H.</hi> for <hi>Ric. Davis.</hi> 1664.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:99842:2"/>
+            <pb facs="tcp:99842:2"/>
+            <p>Homer a la mode.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:99842:3"/>
+            <pb facs="tcp:99842:3" rendition="simple:additions"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Ecauſe it was thought too difficult to Print ſo much Greek as was requiſite, And too mean to print the Latine Tranſla<g ref="char:EOLhyphen"/>tion; The Learned Reader, that thinketh it worth his while to ob<g ref="char:EOLhyphen"/>ſerve the correſpondence betwixt this Tranſlation and the Text, is deſired to compare them, as well for the Illuſtration of the one, as
+<pb facs="tcp:99842:4"/>
+the other: Further, by way of Preface, HOMER, though dreſ<g ref="char:EOLhyphen"/>ſed in the new mode, will onely beg a favourable cenſure in his old tone,</p>
+            <p>
+               <hi>Good People pitty the blind.</hi>
+            </p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:99842:4"/>
+            <head>ERRATA.</head>
+            <p>Some faults have ſlipped the Preſſe, and would have done, had <hi>Homer</hi> himſelfe been Corrector, therefore the Reader is deſired to mend, or pardon, theſe that follow, and as ma<g ref="char:EOLhyphen"/>ny more as he can find.</p>
+            <p>
+               <hi>P. 17. l. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. blot out</hi> mind. 24. <hi>l. 1. r.</hi> ask's. <hi>l. 19. r.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>p. 47. l,</hi> 13. <hi>for</hi> a <hi>r.</hi> the. <hi>p. 67. l. 3. blot out</hi> to. <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb facs="tcp:99842:5"/>
+            <pb facs="tcp:99842:5"/>
+            <head>Homer <hi>A la Mode.</hi>
+            </head>
+            <argument>
+               <head>The Argument.</head>
+               <lg>
+                  <l>One Captaine at another ſwaggers,</l>
+                  <l>And comes, almoſt, to drawing daggers,</l>
+                  <l>The Army's plagu'd, not for their vices,</l>
+                  <l>But long o'th prayers of old <hi>Chryſes,</hi>
+                  </l>
+                  <l>Which was a poore Clerk of <hi>Apollo's;</hi>
+                  </l>
+                  <l>Theſe the Contents, the Chapter follows.</l>
+               </lg>
+            </argument>
+            <lg>
+               <l>
+                  <seg rend="decorInit">C</seg>Ome on, ſtrike up thou riming Goddeſs,</l>
+               <l>And ſing me, in ſome blyth Rhapſody's,</l>
+               <l>
+                  <hi>Achilles</hi> his unlucky fury;</l>
+               <l>Which, as the ſequell may aſſure ye,</l>
+               <l>
+                  <pb n="2" facs="tcp:99842:6"/>Did bring upon the <hi>Graecians,</hi> double</l>
+               <l>Foure or five hundred pecks of trouble;</l>
+            </lg>
+            <lg>
+               <l>And, as the tale doth farther tell us,</l>
+               <l>Did ſend a number of good fellows,</l>
+               <l>Without as much as being ſick,</l>
+               <l>Body and Soule downe to old <hi>Nick,</hi>
+               </l>
+               <l>Which, haſh't before by <hi>Mars</hi> his cooks,</l>
+               <l>Made treats for maſtiff dogges and rooks;</l>
+               <l>
+                  <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> (For no man living dares ſay no</l>
+               <l>When croſſe-grain'd <hi>Jove</hi> will have it ſo)</l>
+               <l>Since firſt <hi>Agamemnon</hi> 
+                  <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> the Generall,</l>
+               <l>He under whoſe command the men are all,</l>
+               <l>With ſtout <hi>Achilles</hi> fell at odds;</l>
+               <l>But which the devil of all the Gods,</l>
+               <l>Can any ſay by what appeares,</l>
+               <l>Set theſe two ſwabbers by the eares?</l>
+               <l>Who but <hi>Latona</hi> and <hi>Joves</hi> ſon?</l>
+               <l>Who, angry with <hi>Agamemnon,</hi>
+               </l>
+               <l>Did ſend the plague and pox among 'em,</l>
+               <l>H'had better took 'em both and hung 'em,</l>
+               <l>
+                  <pb n="3" facs="tcp:99842:6"/>For, for their ſakes, the harmleſſe peop<g ref="char:EOLhyphen"/>le Kick't up heeles like rotten ſheep,</l>
+            </lg>
+            <lg>
+               <l>The meanes how this did come about,</l>
+               <l>That with <hi>Apollo</hi> he fell out,</l>
+               <l>Was this; <hi>Apollo</hi> had a <hi>Flamen</hi>
+               </l>
+               <l>Who uſ'd in's Temple to cry <hi>Amen,</hi>
+               </l>
+               <l>For th' preſent think one of our ſextons,</l>
+               <l>This fellow <hi>Agamemnon</hi> vex'd once,</l>
+               <l>Coming to pay his Daughters ranſome,</l>
+               <l>For (to ſay truth) the Girle was handſom,</l>
+               <l>He brought along with him rare gifts,</l>
+               <l>Knowing the Souldiers wanted ſhifts,</l>
+               <l>He came well ſtock'd with Canvas ſuites,</l>
+               <l>Good lockram ſhirts, and well vamp'd Boots,</l>
+               <l>Beſides, for Food, Bisket of Naples,</l>
+               <l>And, in his Pocket, mellow Apples,</l>
+               <l>For State, with him bore an attendant,</l>
+               <l>A Dog-whip with a Bell at th'end on't,</l>
+               <l>To th' Tent where <hi>Agamemnon</hi> kept her,</l>
+               <l>And told him 'twas <hi>Apollos</hi> Scepter,</l>
+               <l>
+                  <pb n="4" facs="tcp:99842:7"/>With him there came another carle, and</l>
+               <l>Bore after him the pariſh Garland,</l>
+               <l>That Garland which did hang before</l>
+               <l>Over <hi>Apollos</hi> Chancell door,</l>
+               <l>Thus coming to the <hi>Graecian</hi> Navy,</l>
+               <l>He doff't his Cap, and cry'd God ſave ye</l>
+               <l>To all the <hi>Greeks,</hi> to each <hi>Atrides</hi>
+               </l>
+               <l>Specially, who the peoples guide is,</l>
+               <l>Then tilting down's head, up his breech,</l>
+               <l>He thus began to make a Speech,</l>
+            </lg>
+            <lg>
+               <l>Right worſhipfull, you both <hi>Atridae,</hi>
+               </l>
+               <l>And thoſe that ſit o'th bench beſide ye,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> You throng of <hi>Graecians</hi> altogether,</l>
+               <l>Whoſe Boots are made of good Neats Lether,</l>
+               <l>Were <hi>Jove</hi> ſo much your Friend as I am,</l>
+               <l>You quickly ſhould vanquiſh King <hi>Priam,</hi>
+               </l>
+               <l>I wiſh that all the Gods would lend</l>
+               <l>Their help to bring <hi>Troy</hi> to its end,</l>
+               <l>And bring you to your pariſh a'ter.</l>
+               <l>In the mean time pray free my Daugher,</l>
+               <l>
+                  <pb n="5" facs="tcp:99842:7"/>Accepting what I humbly offer,</l>
+               <l>Brought hither out of my Wives Coffer,</l>
+               <l>Herein you ſhall <hi>Apollo</hi> reverence,</l>
+               <l>And make him of your party ever hence.</l>
+            </lg>
+            <lg>
+               <l>As ſoon as all the Souldiers heard it,</l>
+               <l>For <hi>Chryſes</hi> ſtreight they gave their verdit,</l>
+               <l>For the poor varlets mouths did water</l>
+               <l>More at his trinckets then his Daughter,</l>
+               <l>And therefore thought fit to reſpect</l>
+               <l>The Prieſt, and not his gifts reject,</l>
+               <l>Onely, amongſt them all, <hi>Agam</hi>-</l>
+               <l>
+                  <hi>Memnon</hi> began to curſe and dam,</l>
+               <l>And, ceaſing not to rant and ſweare,</l>
+               <l>Sent him home with a Fly in's ear,</l>
+            </lg>
+            <lg>
+               <l>Quoth he, Old man, I give thee notice,</l>
+               <l>Woe be to him that in thy coat is,</l>
+               <l>If ever <hi>Agamemnon</hi> catches</l>
+               <l>Him in our Ships, though under hatches,</l>
+               <l>Sexton ile ſpoyle you for a ringer,</l>
+               <l>If any longer here you linger,</l>
+               <l>
+                  <pb n="6" facs="tcp:99842:8"/>If e're you come again to'th Navy,</l>
+               <l>You'le find your Scepter will not ſave ye,</l>
+               <l>If ever here again you dare land,</l>
+               <l>You'l find no favour for your Garland,</l>
+               <l>As for the Wench, I'le not part with her</l>
+               <l>Till age hath render'd her whitlether,</l>
+               <l>With me ſhe ſhall ſtay in the mean while.</l>
+               <l>(Though from her pariſh it were ten mile)</l>
+               <l>She ſhall not once budge from my quarters,</l>
+               <l>
+                  <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>—</note> But there ſhal weave bonelace and garters,</l>
+               <l>And with me tumble ſhall in the ſtraw</l>
+               <l>Oft'ner then my wife <hi>Clytemneſtra,</hi>
+               </l>
+               <l>Therefore begon, provoke me not,</l>
+               <l>Or elſe by—thou go'ſt to pot.</l>
+            </lg>
+            <lg>
+               <l>Old Chryſes for fear almoſt dead,</l>
+               <l>Shrinking his ears cloſe to his head,</l>
+               <l>And not attempting one word more,</l>
+               <l>March'd ſilently along the ſhore,</l>
+               <l>But all the way, in wofull poſtures</l>
+               <l>
+                  <note n="b" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> He mutter'd backward Pater noſters;</l>
+               <l>
+                  <pb n="7" facs="tcp:99842:8"/>Making his Prayer to King <hi>Apollo,</hi>
+               </l>
+               <l>
+                  <hi>Latona's</hi> ſon, as here doth follow.</l>
+            </lg>
+            <lg>
+               <l>Quoth he look thou on my hearts wounds</l>
+               <l>That doſt in <hi>Chryſe</hi> 
+                  <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> walk the rounds,</l>
+               <l>O thou which <hi>Cylla</hi> guardeſt ever,</l>
+               <l>And <hi>Tenedos,</hi> with ſilver quiver,</l>
+               <l>Thou heavenly <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> rat-catcher, if ere</l>
+               <l>I'th temple I made thee good cheer,</l>
+               <l>Or have e're flung the fat i'th fire</l>
+               <l>Of Bulls, or Goats, grant my deſire,</l>
+               <l>For thine own honour think upon't,</l>
+               <l>And let the <hi>Greeks</hi> rue this affront.</l>
+            </lg>
+            <lg>
+               <l>Thus, whining, pray'd this great old lubberd,</l>
+               <l>The chinkes in's cheeks with tears all blubberd,</l>
+               <l>
+                  <hi>Apollo</hi> hears him and forth put's</l>
+               <l>From high <hi>Olympus</hi> vext at guts,</l>
+               <l>His Bow in rage he ſtraight flung over</l>
+               <l>His Back, and's Quiver <note n="c" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> with cloſe cover,</l>
+               <l>And as he went his angry Arrows</l>
+               <l>Rumbled, as if th' had been wheel-barrows,</l>
+               <l>
+                  <pb n="8" facs="tcp:99842:9"/>Pulling his Cap down o're his face,</l>
+               <l>He ſtole in a night walkers pace,</l>
+               <l>He came, and ſate behind the boats,</l>
+               <l>Drew's bow, and cry'd have at your coates.</l>
+               <l>Straight a broad arrow he let go,</l>
+               <l>Twang ſay's the ſtring of's Silver Bow,</l>
+               <l>All his firſt ſhootes he made at random,</l>
+               <l>Or elſe no living wight durſt ſtand 'em,</l>
+               <l>The firſt Bolt that he ſhot, did chance</l>
+               <l>Againſt a Mules fifth rib to glance;</l>
+               <l>The very next, beleeve me Sirs,</l>
+               <l>Did light among the fiſting Curs.</l>
+            </lg>
+            <lg>
+               <l>Thus of the beaſts having made havoke,</l>
+               <l>He turn'd his javelins againſt the folke,</l>
+               <l>And from among them forthwith flyes one</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Whoſe forked head was dip't in poiſon,</l>
+               <l>Which went directly as a line,</l>
+               <l>This trade continu'd whole days nine,</l>
+               <l>And all this while, I can aſſure you, all</l>
+               <l>That dy'd, could ſcarce get decent buriall,</l>
+               <l>
+                  <pb n="9" facs="tcp:99842:9"/>Some they were faine to burne like witches,</l>
+               <l>Others were thrown by heapes in ditches,</l>
+            </lg>
+            <lg>
+               <l>At laſt when the tenth day was come once,</l>
+               <l>
+                  <hi>Achilles</hi> ſent about his ſummons,</l>
+               <l>To give all notice, that they meet</l>
+               <l>In all poſt haſt, at a court leete;</l>
+               <l>For <hi>Juno,</hi> with her dirty Fiſts,</l>
+               <l>(Yet cleanlyer above the wriſts)</l>
+               <l>Minded him to ſeek out a wizard,</l>
+               <l>For it did vex her to the gizard,</l>
+               <l>I'th midſt of all their warlike hurrying,</l>
+               <l>To ſee the <hi>Graecians</hi> die o'th muraine,</l>
+               <l>Then thus, as ſoon as all the commons</l>
+               <l>Were met according to their ſummons,</l>
+               <l>
+                  <hi>Achilles,</hi> 
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> nimble as any lacky,</l>
+               <l>Starts up amongſt them, and thus ſpake he.</l>
+            </lg>
+            <lg>
+               <l>Quoth he, right worſhipful <hi>Atrides,</hi>
+               </l>
+               <l>Either my gueſs o'th matter wide is,</l>
+               <l>Or home again we all muſt go</l>
+               <l>To ſave our lives, glad we ſcape ſo,</l>
+               <l>
+                  <pb n="10" facs="tcp:99842:10"/>For all our Souldiers, on my word,</l>
+               <l>Can't long hold out 'gainſt plague, and ſword.</l>
+               <l>In all our camp they'l ſoon leave no man,</l>
+               <l>Therefore let's find out ſome wiſe woman,</l>
+               <l>Or ſome old Prieſt t' interpret dreams,</l>
+               <l>And free us from theſe two extreames,</l>
+               <l>(For dreames from <hi>Jupiter</hi> are ſent,)</l>
+               <l>So may we know <hi>Phaebus</hi>'s intent</l>
+               <l>Or what a pox ſhould be the matter</l>
+               <l>Why he this plague 'mongſt us ſhould ſcatter,</l>
+               <l>Whether it be cauſe we did faile him</l>
+               <l>In paying our vows, or what ſhould ay'le him,</l>
+               <l>Or elſe whether the reaſon lyes</l>
+               <l>In our default of ſacrifice,</l>
+               <l>Or whether he'l be reconcil'd</l>
+               <l>With th' ſteam of mutton roſt, or boyl'd,</l>
+               <l>Or if he'l cure us of this pox</l>
+               <l>For the choyce Kids in all our flocks,</l>
+               <l>Thus, having ended his fair ſpeech,</l>
+               <l>He ſate him down again on's breech,</l>
+            </lg>
+            <lg>
+               <l>Who ſtarts me up when he had done?</l>
+               <l>But cunning <hi>Calchas, Theſtor's</hi> Son,</l>
+               <l>
+                  <pb n="11" facs="tcp:99842:10"/>Well wot he whatſoe're birds ſpoke,</l>
+               <l>Whether Owles hoop, or Ravens croke,</l>
+               <l>Nor did he onely underſtand</l>
+               <l>Things that were preſent, and at hand,</l>
+               <l>But that which was to be anon,</l>
+               <l>And what paſs'd thouſand years agone,</l>
+               <l>When firſt the <hi>Graecians</hi> hoyſ'd up ſayle</l>
+               <l>For <hi>Troy</hi> towne, in their coats of Male,</l>
+               <l>Then this wiſe <hi>Calchas</hi> was their Pilot,</l>
+               <l>Which office fell not to him by lot,</l>
+               <l>But was confer'd upon his merit,</l>
+               <l>'Cauſe he had a familiar ſpirit,</l>
+            </lg>
+            <lg>
+               <l>This fortune-teller, thus endow'd</l>
+               <l>As hath been ſaid, mannerly bow'd,</l>
+               <l>Then ſaid, Darling of <hi>Jove, Achilles,</hi>
+               </l>
+               <l>You bid me ſay what <hi>Phoebus</hi>'s will is,</l>
+               <l>Which I'le perform, but firſt d'ye here,</l>
+               <l>I'le make you promiſe me, and ſwear</l>
+               <l>That you'l ſtand by me, and aſſiſt</l>
+               <l>What e're I ſay with your clutch't fiſt,</l>
+               <l>
+                  <pb n="12" facs="tcp:99842:11"/>And that you'l heartily incourage,</l>
+               <l>And keep me ſafe from threatning, or rage,</l>
+               <l>What e're I ſay you muſt avouch,</l>
+               <l>For I beleeve, my words will touch</l>
+               <l>To th' very quick ſome great commander,</l>
+               <l>(And yet I ſwear they are no ſlander)</l>
+               <l>And that you know's as bad, or worſe,</l>
+               <l>Then currying a galled horſe,</l>
+               <l>For why? you know, a Captaine's more</l>
+               <l>Powerful when vext, then e're before,</l>
+               <l>And though he for the preſent ſmother</l>
+               <l>His rage perhaps, yet at ſome other</l>
+               <l>Time 'twill break out, when e're a ſuiting</l>
+               <l>Occaſion comes fort's executing,</l>
+               <l>When e're he finds the other armleſs,</l>
+               <l>Then tell me, wilt thou ſave me harmleſs?</l>
+            </lg>
+            <lg>
+               <l>Then ſpake <hi>Achilles</hi> ſwift of pace,</l>
+               <l>Fear not, (quoth he) take heart of grace,</l>
+               <l>What e're thou haſt to ſay, be't beſt or</l>
+               <l>worſt, ſpeake it out thou ſon of <hi>Theſtor,</hi>
+               </l>
+               <l>
+                  <pb n="13" facs="tcp:99842:11"/>I ſwear by <hi>Phoebus</hi> great <hi>Joves</hi> darling,</l>
+               <l>Thou ſhalt not need fear any ſnarling,</l>
+               <l>Whil'ſt thou the oracle doſt expound,</l>
+               <l>As long as I am above ground,</l>
+               <l>And have mine eyes open, ſo long</l>
+               <l>None of the <hi>Greeks</hi> ſhall do thee wrong,</l>
+               <l>And on my honeſt word I tell ye,</l>
+               <l>No boat contains in's hollow belly,</l>
+               <l>The man that dares lay hands upon</l>
+               <l>Thee, though thou ſaieſt <hi>Agamemnon,</hi>
+               </l>
+               <l>Who (and good reaſon for't) doth boaſt</l>
+               <l>Himſelf Commander of the hoſt</l>
+            </lg>
+            <lg>
+               <l>Then the harmleſſe wizard 'gan to take</l>
+               <l>A good heart to him, and thus ſpake,</l>
+               <l>'Tis not for breaking of ingagement,</l>
+               <l>That <hi>Phoebus</hi> is in this inragement,</l>
+               <l>Nor doth he to this plague us doome</l>
+               <l>Becauſe he wants a Hecatombe,</l>
+               <l>But 'tis becauſe <hi>Agamemnon</hi>
+               </l>
+               <l>In ſcorne bid <hi>Chryſes</hi> get him gone,</l>
+               <l>
+                  <pb n="14" facs="tcp:99842:12"/>And neither took the gifts he brought here,</l>
+               <l>Nor yet would give him back his Daughter,</l>
+               <l>Therefore e're ſince this <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> cunning Archer</l>
+               <l>Hath been as mad as any March Hare,</l>
+               <l>And hitherto hath laid plagues on</l>
+               <l>Us, and reſolves ne're to have done</l>
+               <l>Till we the black-ey'd Girle reſtore,</l>
+               <l>And ſet her down at her Dads dore,</l>
+               <l>Bringing her thither in our Barges,</l>
+               <l>And bearing all her Journeys charges,</l>
+               <l>And with her we muſt give Old <hi>Chryſes</hi>
+               </l>
+               <l>A goodly ſight of Sacrifices,</l>
+               <l>And then <hi>Apollo</hi> will grow mild,</l>
+               <l>And eaſily be reconcil'd</l>
+            </lg>
+            <lg>
+               <l>When he had ſaid thus, he ſate down;</l>
+               <l>Then, ſhewing's anger in a frown,</l>
+               <l>
+                  <hi>Agamemnon</hi> roſe, (or he bely'd is)</l>
+               <l>Who by his Sir-name hight <hi>Atrides,</hi>
+               </l>
+               <l>He ſwell'd, and then lookt black with Ire,</l>
+               <l>
+                  <note n="b" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> His eyes caſt ſparkes like charcoale fire;</l>
+               <l>
+                  <pb n="15" facs="tcp:99842:12"/>
+                  <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Then firſt he furiouſly did blink on</l>
+               <l>
+                  <hi>Calchas,</hi> like the Divell o're <hi>Lincolne;</hi>
+               </l>
+               <l>Then thus belpake him, ne're had I</l>
+               <l>From thy mouth yet good Propheſy,</l>
+               <l>Thou damnable, unlucky, villanous,</l>
+               <l>Wizard, thou lov'ſt ſtill to ſpeake ill on us,</l>
+               <l>Thou onely doſt contention breed,</l>
+               <l>Ne're ſpeak'ſt good word, nor doſt good deed,</l>
+               <l>And now you tell the <hi>Greeks</hi> y'have found,</l>
+               <l>VVhil'ſt you the Oracle expound,</l>
+               <l>That long of me haps all this ſlaughter,</l>
+               <l>Becauſe I keep old <hi>Chryſes</hi> Daughter</l>
+               <l>Perforce, and would not take his preſent,</l>
+               <l>That therefore on us this plague he ſent,</l>
+               <l>Indeed I love the wench a life,</l>
+               <l>More then I do my lawfull VViſe,</l>
+               <l>For better huſwiſe ne're trod lether,</l>
+               <l>And, to ſay truth, ſhe's not beneath her</l>
+               <l>
+                  <pb n="16" facs="tcp:99842:13"/>Neither for wit, nor yet for feature,</l>
+               <l>Nor for her gentle loving nature,</l>
+               <l>But for all this, an't muſt be ſo,</l>
+               <l>VVith all my heart l'le let her go,</l>
+               <l>For who can helpe it? I had rather</l>
+               <l>Save my own troop, then my own father,</l>
+               <l>I'le give conſent, and ne're ask why ſo,</l>
+               <l>But alwaies making this proviſo,</l>
+               <l>Neighbours, I ſhould be very ſorry</l>
+               <l>To looſe by th' Kindneſs I have for ye,</l>
+               <l>Therefore I hope, when ſhe is gone,</l>
+               <l>You will not leave me thus alone,</l>
+               <l>For, is there any reaſon why</l>
+               <l>Each man ſhould have his wench but I?</l>
+               <l>And truly I ſhould be the loather</l>
+               <l>To leave her but for hopes of other,</l>
+               <l>I quitt her for the publick ends,</l>
+               <l>The publick muſt make me amends.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Achilles,</hi> footed like a dancer,</l>
+               <l>Starts up, and makes him ſtreight this anſwer,</l>
+               <l>
+                  <pb n="17" facs="tcp:99842:13"/>Quoth he, Ambitions <hi>Atrides</hi>
+               </l>
+               <l>Thy greedy mind mind ne're ſatisfi'd is,</l>
+               <l>Such Avarice was never heard on,</l>
+               <l>How ſhould the <hi>Greekes</hi> give thee a guerdon?</l>
+               <l>Doth any man know, with a pocks,</l>
+               <l>What thou'ldſt have? we've no common ſtocks,</l>
+               <l>What ere from Citties we have plundred,</l>
+               <l>Divided is 'mongſt many a hundred,</l>
+               <l>Doſt thinke any will leave his ſhare on't?</l>
+               <l>There's no ſuch fooles I faith, I warrant,</l>
+               <l>If thou'lt be willing to preſent her</l>
+               <l>To th'god at preſent at a venture,</l>
+               <l>When by us any more girles are gain'd</l>
+               <l>You'le not repent you have thus bargain'd,</l>
+               <l>For her we'l give rich intereſt</l>
+               <l>In three or fowre more of the beſt,</l>
+               <l>As ſoon as <hi>Jove</hi> will let's deſtroy</l>
+               <l>This paltry mudwall'd burough <hi>Troy,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then <hi>Agamemnon</hi> 'gan to make him</l>
+               <l>Anſwer to this, and thus beſpake him,</l>
+               <l>
+                  <pb n="18" facs="tcp:99842:14"/>Hold hold <hi>Achilles,</hi> though th' hadſt been,</l>
+               <l>As good a man as <hi>George a Green</hi>
+               </l>
+               <l>Although thou wert a pretyer fellow</l>
+               <l>Then any man that liues here below,</l>
+               <l>Thinke not that thus thou ſhall me Cokes,</l>
+               <l>And bore my noſe, like <hi>Iohn a Nokes;</hi>
+               </l>
+               <l>Though th' art the braveſt of thy inches</l>
+               <l>Shall't nere ore reach me with thy clinches;</l>
+               <l>whilſt thou art furniſh'd with females,</l>
+               <l>Should I ſit downe and ſuck my nayles?</l>
+               <l>You bid me let my Doxy goe,</l>
+               <l>But firſt I muſt know whither or noe</l>
+               <l>The luſty <hi>Graecians</hi> will binde</l>
+               <l>Themſelves to fit me to my mind</l>
+               <l>With ſome one elſe, and tis but right</l>
+               <l>But if in caſé you all deny't,</l>
+               <l>Ile take a girle where ere I liſt</l>
+               <l>And let me ſee who dares reſiſt,</l>
+               <l>Thyne, or <hi>
+                     <g ref="char:V">Ʋ</g>liſſes,</hi> or <hi>Ajax,</hi>
+               </l>
+               <l>As ſure as the coates on your backs,</l>
+               <l>
+                  <pb n="19" facs="tcp:99842:14"/>To looſe his girle I know it would</l>
+               <l>Uex any, but I muſt make bold;</l>
+               <l>But of this we'l discourſe here a'ter,</l>
+               <l>At preſent lets draw downe to th' water</l>
+               <l>A lighter uſ'd to carry ſeacoale,</l>
+               <l>Whoſe pitchy backs as black as the coale;</l>
+               <l>In it let's place ſome luſty barge men,</l>
+               <l>Such as amongſt us are moſt large men,</l>
+               <l>With them the Hecatombe when ſhe is</l>
+               <l>Ready to launch forth, bring <hi>Chryſeis,</hi>
+               </l>
+               <l>Then let a Steerſman goe aboard her,</l>
+               <l>The waryeſt our campe can afford her,</l>
+               <l>
+                  <hi>Ajax,</hi> or elſe <hi>Idomeneus,</hi>
+               </l>
+               <l>Or, if they both deſire excuſe,</l>
+               <l>Let't be <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes;</hi> if his will is</l>
+               <l>To ſtay at home; go thou <hi>Achilles,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Who haſt ſuch dreadfull gogle eyes,</l>
+               <l>For us to <hi>Phoebus</hi> ſacrifice,</l>
+            </lg>
+            <lg>
+               <pb n="20" facs="tcp:99842:15"/>
+               <l>Light-foot <hi>Achilles</hi> twice or thrice</l>
+               <l>Star'd at him like a cockatrice,</l>
+               <l>Then ſpake, (pauſing a little while)</l>
+               <l>Thou bundle of impudence and guile,</l>
+               <l>How canſt thou entertain a thought,</l>
+               <l>That ere the <hi>Graecians</hi> ſhould be brought</l>
+               <l>By virtue of command from you,</l>
+               <l>To charge the foe, or lye perdue?</l>
+               <l>Doſt thinke that I come for my owne</l>
+               <l>Intereſt to beſiege <hi>Troy</hi> towne?</l>
+               <l>Or charge their pikemen? by the maſſe</l>
+               <l>On my ground they did nere treſpaſſe,</l>
+               <l>They never with mee play'd the theeves,</l>
+               <l>Or ſtole my horſes, or my beeves,</l>
+               <l>Nor ere in <hi>Phthye</hi> (whoſe rich paſtures</l>
+               <l>With good increaſe doth feed their maſters,)</l>
+               <l>Came they ith' dead of dark night creeping,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> To rob my orchards of one pipin,</l>
+               <l>
+                  <pb n="21" facs="tcp:99842:15"/>Or genet moyle; the reaſon's plain,</l>
+               <l>Becauſe betwixt them lyes the mayne,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Ditches and banks on which are thick ſet</l>
+               <l>Crab-trees, and poynant thornes of quick-ſet:</l>
+               <l>The cauſe that did to <hi>Troy</hi> towne draw us,</l>
+               <l>Was to right wronged <hi>Menelaus,</hi>
+               </l>
+               <l>Onely to pleaſe the mind, <hi>Jove</hi> knows,</l>
+               <l>Of that good man, <note n="†" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> and you dogs noſe:</l>
+               <l>But all our ſervice is forgot,</l>
+               <l>Our courteſie you value not,</l>
+               <l>But ſweare you'll rob me of my hire,</l>
+               <l>Which I'me ſure I got out oth' fire,</l>
+               <l>And ſince it was the <hi>Graecians</hi> gift,</l>
+               <l>To keep it, I ſhall make a ſhift,</l>
+               <l>I'me ſure with you I ſha'nt part ſtakes,</l>
+               <l>When ere the <hi>Graecian</hi> army takes</l>
+               <l>
+                  <hi>Troy</hi> towne, this little tidy ham,</l>
+               <l>As full of men as ere't can cram,</l>
+               <l>
+                  <pb n="22" facs="tcp:99842:16"/>And yet though th'warres continue an age,</l>
+               <l>Moſt part of them my hands muſt manage,</l>
+               <l>When we come to divide the ſpoyle,</l>
+               <l>Thou alwayes tak<g ref="char:punc">▪</g>ſt a huge great pile,</l>
+               <l>But if I get a little heap,</l>
+               <l>T'is all that e're my labours reap,</l>
+               <l>For which I'me thankfull, and goe mery</l>
+               <l>With it along to my owne whery,</l>
+               <l>But now I bid you all God b'wy ye,</l>
+               <l>For my part Ile go home to <hi>Phthie,</hi>
+               </l>
+               <l>There Ile ſtay with my Sea-coale lighters,</l>
+               <l>And ne're thinke of the <hi>Graecian</hi> fighters,</l>
+               <l>For truly I thinke that's far better,</l>
+               <l>Without me little can you get here:</l>
+               <l>You never ſhall again diſparage</l>
+               <l>Me, with your unmannerly carriage.</l>
+               <l>
+                  <hi>Agamemnon</hi> Captain of the Rout</l>
+               <l>Anſwer'd, mary if y'are ſo ſtout,</l>
+               <l>With all my heart, I faith, be jogging,</l>
+               <l>Ile never call you back by cogging,</l>
+               <l>
+                  <pb n="23" facs="tcp:99842:16"/>Here are ſufficient coppyholders</l>
+               <l>Tenants of mine, are as good Souldiers,</l>
+               <l>That honor me, and call me Land-lord,</l>
+               <l>Beſides <hi>Jove</hi> our preſerver, and Lord;</l>
+               <l>Theſe are on my ſide, and no daſtards,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> I hate thee more then all <hi>Joves</hi> baſtards;</l>
+               <l>Th'art quarelſome, and lov'ſt a life</l>
+               <l>To be at th'end of ev'ry ſtrife,</l>
+               <l>What though at foot-ball thou giv'ſt oddes</l>
+               <l>To all the Pariſh, thanke the gods,</l>
+               <l>Here I've no great need of your ayd,</l>
+               <l>Goe home and looke thee a comrade,</l>
+               <l>Command thy Myrmedons, aboard</l>
+               <l>Thy Scullers, and there play the Lord,</l>
+               <l>Thy anger I not value doe</l>
+               <l>More then the dirt under my ſhoe,</l>
+               <l>And ſince thou art ſo peremptory,</l>
+               <l>Ile tell thee ee'ne the downe right ſtory,</l>
+               <l>
+                  <pb n="24" facs="tcp:99842:17"/>Since <hi>Phaebus</hi> ask' my concubine,</l>
+               <l>I'le ſend her in a boate of mine,</l>
+               <l>Beſides two or three of my men</l>
+               <l>I'le ſend along with her, but then</l>
+               <l>I'le come my ſelfe as ſure as ſhe is</l>
+               <l>Aliue, and take away <hi>Bryſeis,</hi>
+               </l>
+               <l>She whoſe cheekes are as red as cheries,</l>
+               <l>And bring her home in my owne wheries,</l>
+               <l>From thy tent, whereby thou ſhall know</l>
+               <l>That I am none of thy fellow,</l>
+               <l>And this I'le doe that others may</l>
+               <l>By an example learne t' obey,</l>
+               <l>And tremble ever to out-braue</l>
+               <l>Me, as thou doſt, thou ſaucy knaue,</l>
+            </lg>
+            <lg>
+               <l>This when <hi>Achilles</hi> heard, a ſadneſs</l>
+               <l>Seiz'd him, he could have cry'de for madneſs;</l>
+               <l>Whilſt he be thought him what was beſt,</l>
+               <l>His heart nigh brake in's ſhaggy breſt,</l>
+               <l>He'd faine have drawne his truſty dudgeon,</l>
+               <l>And been the death of that cormudgion,</l>
+               <l>
+                  <pb n="25" facs="tcp:99842:17"/>Becauſe he talk'd to him ſo ſurly,</l>
+               <l>But that he fear'd a hurly burly,</l>
+               <l>His mind, when he thought better on't,</l>
+               <l>Was to have put up the affront,</l>
+               <l>But then again he thought it baſe</l>
+               <l>To put up ſuch a foule diſgrace,</l>
+               <l>Standing and doubting thus with in a yard</l>
+               <l>Of <hi>Agamemnon,</hi> he drew's whinyard,</l>
+               <l>And whilſt, he ſcarce yet knew's own mind,</l>
+               <l>Who comes me ſtealing in behind,</l>
+               <l>(Sent from one <hi>Juno,</hi> an old witch,</l>
+               <l>Whoſe wriſts were white with ſcurfe, and itch</l>
+               <l>Who lov'd 'em dearly both) but a laſs</l>
+               <l>That liv'd with her, whoſe name was <hi>Pallas;</hi>
+               </l>
+               <l>She ſtriking him two or three wherets</l>
+               <l>O'th ears, <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>—</note> tooke hold of's bunch of carrets,</l>
+               <l>Her ſhape ſeen onely by <hi>Pelides,</hi>
+               </l>
+               <l>By none of all the reſt eſpy'd is,</l>
+               <l>
+                  <pb n="26" facs="tcp:99842:18"/>
+                  <hi>Achilles</hi> wondred who ſhould be</l>
+               <l>So bold, and turn'd about to ſee,</l>
+               <l>And ſtaring at her, ſtreight her knew,</l>
+               <l>Although ſhe look't then deadly skew,</l>
+               <l>And Bawling at her, theſe words utter'd,</l>
+               <l>As ſwift as if his tongue were butter'd.</l>
+            </lg>
+            <lg>
+               <l>Daughter of <hi>Jove</hi> 
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> that of Goats lether</l>
+               <l>Wears doublets what wind brought thee hither?</l>
+               <l>Art come to teſtify the ſlander</l>
+               <l>Thrown on me by <hi>Atrides</hi> yonder</l>
+               <l>I'le tell the one thing, and that truly</l>
+               <l>He preſently ſhall come of Blewly,</l>
+               <l>For by theſe truſty hilts, this ſtrife,</l>
+               <l>If I miſs not, ſhall coſt his life;</l>
+            </lg>
+            <lg>
+               <l>To him then thus ſaid bleare ey'd <hi>Pallas,</hi>
+               </l>
+               <l>Art mad? What, doſt not fear the gallows?</l>
+               <l>My dame, which too well loves you all,</l>
+               <l>Hath ſent me to compoſe this braul,</l>
+               <l>
+                  <pb n="27" facs="tcp:99842:18"/>I'me ſent by <hi>Juno</hi> with white wriſts</l>
+               <l>To keep the peace, and hold your fiſts,</l>
+               <l>Therefore hands off, do not thou draw</l>
+               <l>Thy ſword, agree, you know the Law</l>
+               <l>Is coſtly, if you pleaſe you may</l>
+               <l>Berogue and raſcall him all day,</l>
+               <l>For this I tell you, and 'tis true,</l>
+               <l>This combate he ſhall dearly rue,</l>
+               <l>He ſhall e're long be put to's ſhifts,</l>
+               <l>And court you with three times theſe gifts,</l>
+               <l>Prethee therfore put up thy toole,</l>
+               <l>ſay thou wer't once rul'd by a fool,</l>
+               <l>Then ſaid <hi>Achilles</hi> light of feet,</l>
+               <l>If ſhe command me, then ſo be it,</l>
+               <l>we muſt of force obey old wives</l>
+               <l>Needes muſt he go the Divell drives,</l>
+               <l>Though I were vex'd, and nere ſo bold,</l>
+               <l>I dare not ſtrike when ſhe bids hold,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> I know if I be rul'd by thee,</l>
+               <l>Thou'lt do as much again for mee,</l>
+               <l>
+                  <pb n="28" facs="tcp:99842:19"/>This ſaid, e're any blood was ſpilt,</l>
+               <l>He put his fiſt in's basket hilt,</l>
+               <l>To th' ſcabbard that did it in viron</l>
+               <l>He thruſt again his fighting Iron.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Pallas</hi> ſaw't, ſhe tooke her flight</l>
+               <l>A ſtride a cowle-ſtaffe, out of ſight,</l>
+               <l>And ſtreight, before one could have miſt her,</l>
+               <l>She was, where ſhe had many a ſiſter,</l>
+               <l>That ſate in <hi>Joves</hi> houſe dayly working,</l>
+               <l>That <hi>Jove</hi> that weares a goates skin jerkin,</l>
+               <l>Meane while <hi>Achilles</hi> kept the peace,</l>
+               <l>But to berogue him did not ceaſe,</l>
+               <l>Quoth he, <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> thou drunken, dogs-face, coward,</l>
+               <l>There's all the pariſh can tell how hard</l>
+               <l>'Tis for us ever to perſwade</l>
+               <l>Thee to lie in an ambuſcade</l>
+               <l>Nor ever will thy faint heart yeild</l>
+               <l>To put on armor for the field,</l>
+               <l>
+                  <pb n="29" facs="tcp:99842:19"/>Y' had rather live on what you pillage,</l>
+               <l>By theſe dog-tricks, from your own village,</l>
+               <l>Forſooth if any contradict</l>
+               <l>You, ſtreight his pockets muſt be pickt,</l>
+               <l>Tis forty pittys th' haſt ſuch power</l>
+               <l>Thy poor dragoons thus to deuoure</l>
+               <l>But, for my part, I tell you playne</l>
+               <l>You nere ſhall rayle at me againe.</l>
+            </lg>
+            <lg>
+               <l>But this I ſay, and if I tooke,</l>
+               <l>To it my oath upon a booke,</l>
+               <l>I ſhould not be forſworne, I ſweare</l>
+               <l>By this comanding club I beare,</l>
+               <l>
+                  <note n="*" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> This club that: nere againe ſhall bring</l>
+               <l>Forth bloſomes, for twas cut laſt ſpring</l>
+               <l>Out of the Copſe where't grew before,</l>
+               <l>And now tis dayntyly guilt or'e,</l>
+               <l>
+                  <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>—</note> Borne by a <hi>Graecian</hi> Conſtable,</l>
+               <l>To keepe the peace among the rable,</l>
+               <l>
+                  <pb n="30" facs="tcp:99842:20"/>And yet I tell you that's an oath</l>
+               <l>To break which l'de be very loath,</l>
+               <l>I ſwear, and I will ne're draw back,</l>
+               <l>That when the <hi>Greeks</hi> my ayd do lack,</l>
+               <l>Which will be ſhortly, I conjecture,</l>
+               <l>When they fall into 'th hands of <hi>Hector;</hi>
+               </l>
+               <l>Then thou in vain ſhal't fret at heart,</l>
+               <l>And fret thou ſhal't ſtil for my part,</l>
+               <l>Then wilt thou rue the time and place</l>
+               <l>Where thou the ſtout'ſt <hi>Greek</hi> didſt diſgrace.</l>
+            </lg>
+            <lg>
+               <l>So when he had ſaid, he did doff his</l>
+               <l>Cap, and <note n="*" place="bottom">
+                     <lg>
+                        <l>—<gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>—</l>
+                     </lg>
+                  </note> flung down his ſtaffe of office,</l>
+               <l>On which the badge, and name o'th town</l>
+               <l>Was writ in gold, beſides his own,</l>
+            </lg>
+            <lg>
+               <l>And ſate him down upon his bum,</l>
+               <l>When ſtreightway with a hauk and hum,</l>
+               <l>To clear his cough, there roſe up aged</l>
+               <l>
+                  <hi>Neſtor</hi> (the while <hi>Atrides</hi> raged)</l>
+               <l>
+                  <pb n="31" facs="tcp:99842:20"/>Well-ſpoken <hi>Neſtor,</hi> 
+                  <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> from whoſe chops</l>
+               <l>Flow'd hony words as faſt as hops,</l>
+               <l>He was <hi>Pylian,</hi> and had bore</l>
+               <l>All offices i'th pariſh o're:</l>
+               <l>
+                  <note n="b" place="bottom">
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>,</l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                     </lg>
+                  </note> Two years together he had tooke</l>
+               <l>On him the keeping o'th Church-Book,</l>
+               <l>In which he faithfully writ down</l>
+               <l>Thoſe that were born, and dy'd i'th town,</l>
+               <l>And that year, leaſt th' accounts ſhould erre,</l>
+               <l>He was the third time regiſter;</l>
+               <l>This yeoman mongſt them up did riſe,</l>
+               <l>And made this preachment grave and wiſe,</l>
+            </lg>
+            <lg>
+               <l>Gods bobs, quoth he, how great a ſorrow</l>
+               <l>Will this bring all the pariſh thorough!</l>
+               <l>This will make <hi>Priamus</hi> rejoyce,</l>
+               <l>And with him all his <hi>Trojan</hi> boys,</l>
+               <l>
+                  <pb n="32" facs="tcp:99842:21"/>He'le be at heart glad, when he heares</l>
+               <l>You're fal'n together by the ears,</l>
+               <l>You Sir that are the <hi>Grecks</hi> conducter,</l>
+               <l>And you that are their grave inſtructer;</l>
+               <l>Leave off, and be rul'd by me rather,</l>
+               <l>I'me old enough to be your father,</l>
+               <l>I have been bred I tell you true,</l>
+               <l>With many men as good as you;</l>
+               <l>And none of them ever deſpiſ'd</l>
+               <l>To doe the thing that I adviz'd;</l>
+               <l>And no diſparagement, I may ſay</l>
+               <l>You ſhan't ſee in a ſummers day</l>
+               <l>Such as <hi>Pirithous,</hi> and <hi>Dry as</hi>
+               </l>
+               <l>The ſheaphard, that liv'd here hard by us,</l>
+               <l>Beſides <hi>Exadius,</hi> and <hi>Ceneus,</hi>
+               </l>
+               <l>Men who in war were of no mean uſe,</l>
+               <l>And then another, who may ſeem as</l>
+               <l>Though he was <hi>Joves</hi> Son, <hi>Polyphemus;</hi>
+               </l>
+               <l>And <hi>Theſeus,</hi> of whom we come ſhort all</l>
+               <l>You would have ſworn h' had been immortall,</l>
+               <l>
+                  <pb n="33" facs="tcp:99842:21"/>Theſe were ſtout men as ere were borne;</l>
+               <l>Or that ere eate bread made of corne,</l>
+               <l>And though I ſay't, many a hard battle</l>
+               <l>They fought in fields with neighbours cattle;</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> And butcher'd them in cruell manners,</l>
+               <l>And after ſold their hides to tanners,</l>
+               <l>I of this gang for ſome ſhort while was,</l>
+               <l>When I did travell out of <hi>Pylus;</hi>
+               </l>
+               <l>And, leſt the hue and cry ſhould ſeize us,</l>
+               <l>We trudg'd out of <hi>Peloponeſus,</hi>
+               </l>
+               <l>Then did I, as well as I cou'd;</l>
+               <l>Rob paſtures for my livelihood,</l>
+               <l>They took mee with them at the firſt;</l>
+               <l>No man liv'd in thoſe dayes that durſt</l>
+               <l>Fight with theſe kilcows, and yet they</l>
+               <l>What I adviz'd would ſtill obey,</l>
+               <l>Do as theſe men did then, pray do Sirs,</l>
+               <l>By my advice you'll be no looſers,</l>
+               <l>
+                  <pb n="34" facs="tcp:99842:22"/>And though you, <hi>Agamemnon,</hi> may,</l>
+               <l>Pray doe not take the <hi>wench</hi> away,</l>
+               <l>Prethee for my ſake let him have her,</l>
+               <l>Becauſe to him the <hi>Graecians</hi> gave her,</l>
+               <l>To give a thing and take a thing</l>
+               <l>You know is the Devils gold ring,</l>
+               <l>And you, <hi>Achilles,</hi> pray forbeare</l>
+               <l>Againſt the Generall to ſweare,</l>
+               <l>How can you think your honour even</l>
+               <l>With his, which is beſtow'd by heaven?</l>
+               <l>'Tis <hi>Iove</hi> hath given him his place,</l>
+               <l>In ſigne of which he beares a mace,</l>
+               <l>What though you'ue a good pedegree?</l>
+               <l>And are a luſty fellow? he</l>
+               <l>Muſt take place of you, and that duly,</l>
+               <l>He is your generall, and muſt rule ye,</l>
+               <l>And many more; for you, <hi>Atrides,</hi>
+               </l>
+               <l>Soone as your anger pacify'd is,</l>
+               <l>
+                  <hi>Achilles</hi> I ſhall reconcile,</l>
+               <l>And put an end to his mad coyle,</l>
+               <l>
+                  <pb n="35" facs="tcp:99842:22"/>For<g ref="char:punc">▪</g> in this war, without a bragg,</l>
+               <l>He's the beſt peare in all our bagg,</l>
+            </lg>
+            <lg>
+               <l>Thus <hi>Neſtor</hi> gaue in his opinion,</l>
+               <l>When next, <hi>Atrides,</hi> whoſe dominion</l>
+               <l>Reach't far and wide reply'd, ſays he</l>
+               <l>I mary gaffer, there i'me w'ye,</l>
+               <l>But this contentious raſcall here,</l>
+               <l>Over us all will domineere,</l>
+               <l>He would command, as who ſhould moſt,</l>
+               <l>And with his nod would rule the roſt,</l>
+               <l>But here I doubt he'l ſcarce find thoſe</l>
+               <l>That will be tame at his diſpoſe,</l>
+               <l>What though he could toſs a long pike,</l>
+               <l>Soe well that none could doe the like,</l>
+               <l>Is't therefore fit he ſhould be bold</l>
+               <l>To rayle at any uncontroll'd?</l>
+               <l>To this <hi>Achilles</hi> anſwer made,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Snapping him up ere h' had quite ſayd,</l>
+               <l>Quoth he well might a man ſuppoſe,</l>
+               <l>If I ſhould be led by the noſe</l>
+               <l>
+                  <pb n="36" facs="tcp:99842:23"/>Whether pleaſ'd thee, I were a coward,</l>
+               <l>But I'me as good a man as thou art,</l>
+               <l>Therefore command your boyes, that can</l>
+               <l>Obey, you'll find I am a man.</l>
+            </lg>
+            <lg>
+               <l>And yet Ile tell you one thing more,</l>
+               <l>Which I'de almoſt forgot before,</l>
+               <l>Pray lay't to heart, I'le make no puther</l>
+               <l>With you, or elſe with any other</l>
+               <l>About the wench, becauſe, like boyes,</l>
+               <l>You give and aske againe your toyes;</l>
+               <l>But as for any thing beſide</l>
+               <l>A board my boats, let it be try'd</l>
+               <l>Whether thou dar'ſt touch them or no,</l>
+               <l>Without my leave, all theſe ſhall know</l>
+               <l>I can defend my owne, thy gore</l>
+               <l>Shall ſtaine my long ſpere o're and o're,</l>
+            </lg>
+            <lg>
+               <l>Theſe two ſtill wrangling in this ſort,</l>
+               <l>With an O yes diſſolv'd the Court,</l>
+               <l>And all went to their ſeverall charges,</l>
+               <l>Some to their tents, ſome to their barges.</l>
+               <l>
+                  <pb n="37" facs="tcp:99842:23"/>
+                  <hi>Achilles</hi> like a ſad male-content,</l>
+               <l>March'd off directly to his owne tent,</l>
+               <l>And with him went <hi>Menaetiades,</hi>
+               </l>
+               <l>And many more of his comrades.</l>
+            </lg>
+            <lg>
+               <l>Meane while <hi>Atrides</hi> did not dally,</l>
+               <l>But ſtreight prepares mee a ſwift gally,</l>
+               <l>And, ſhoving it off from the ſhore,</l>
+               <l>Put twenty men, each to an oare,</l>
+               <l>Then, with the Hecatombe, the <hi>Greeks</hi>
+               </l>
+               <l>
+                  <hi>Chryſeis</hi> brought with chery cheeks,</l>
+               <l>And after this, the cunning ſeer</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes</hi> went aboard to ſteer,</l>
+               <l>And ſo they ſayl'd along together,</l>
+               <l>For th'preſent 'tis no matter whether.</l>
+            </lg>
+            <lg>
+               <l>Meane while <hi>Atrides,</hi> by all meanes,</l>
+               <l>Would all the camp from rubbiſh cleanſe,</l>
+               <l>To which end men were put in truſt,</l>
+               <l>To cry about, <hi>Bring out your Duſt,</hi>
+               </l>
+               <l>Which in carts carry'd to the ſhore,</l>
+               <l>Was throwne i'th ſea, and ſeen no more,</l>
+               <l>
+                  <pb n="38" facs="tcp:99842:24"/>When that was tumbled downe the ocean,</l>
+               <l>They fell forthwith to their devotion,</l>
+               <l>And ty'd upon <hi>Apollos</hi> altars</l>
+               <l>A hundred bulls and goates with halters,</l>
+               <l>Whoſe ſteam went up with ſuch a ſmoake,</l>
+               <l>As if it would <hi>Apollo</hi> choake.</l>
+               <l>Thus the while all the camp throughout</l>
+               <l>The ſacrifice buſy'd the rout,</l>
+               <l>
+                  <hi>Agamemnon</hi> not intending to miſſe</l>
+               <l>That which in fury he did promiſe,</l>
+               <l>That which he did <hi>Achilles</hi> threaten</l>
+               <l>When by him he was almoſt beaten,</l>
+               <l>
+                  <hi>Talthybius</hi> calls, and <hi>Eurybates,</hi>
+               </l>
+               <l>Who in all meſſages his mate is,</l>
+               <l>(Theſe were two fellows that dwelt neer hand,</l>
+               <l>And uſ'd to run on ev'ry errand,</l>
+               <l>They wore blew coats, and the towne badges,</l>
+               <l>For why? the towne paid them their wages,</l>
+               <l>Nor uſ'd they onely to run poſt,</l>
+               <l>But ſometimes cry'd things that were loſt</l>
+               <l>
+                  <pb n="39" facs="tcp:99842:24"/>About the towne on Market dayes)</l>
+               <l>And to them ſaid, goe you your wayes</l>
+               <l>To'th quárters of <hi>Achilles,</hi> and</l>
+               <l>Take me <hi>Briſeis</hi> by the hand,</l>
+               <l>Bring hèr, if he'll not let her goe,</l>
+               <l>Take mee her whether he will or no,</l>
+               <l>Or elſe my ſelfe I'le come in perſon,</l>
+               <l>And will make him deliver her ſoon,</l>
+               <l>I'le bring a file of Muſketeers</l>
+               <l>And pull him out on's Tent by'th' eares,</l>
+               <l>Therefore command him at the firſt</l>
+               <l>To yeeld her, and prevent the worſt,</l>
+               <l>Then, giving under's hand a warrant,</l>
+               <l>He ſent them with this ſurly errand,</l>
+               <l>Which he no ſooner had quite ſpake,</l>
+               <l>But they march'd off, like beares to th'ſtake,</l>
+               <l>Their eares like ſheep-biters they hang'd,</l>
+               <l>And by the barren ſea ſhore gang'd.</l>
+            </lg>
+            <lg>
+               <l>When they came where he did intrench</l>
+               <l>His <hi>Myrmedons,</hi> upon a bench</l>
+               <l>
+                  <pb n="40" facs="tcp:99842:25"/>They found him ſitting, 'twixt his boat</l>
+               <l>And tent, mending his ragged coat</l>
+               <l>Ith' Sun ſhine, and hard by the ſtaires</l>
+               <l>Where all his ſcullers ply'd for fares,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Spying them, he did nothing leſſe</l>
+               <l>Then leap for joy, you well may gueſſe;</l>
+               <l>The foot-poſts too backward did ſneake,</l>
+               <l>And out of fear could hardly ſpeake,</l>
+               <l>But there like loggerheads ſtood ſcraping;</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Achilles</hi> knowing by their gaping</l>
+               <l>What they did meane, Give you good 'en,</l>
+               <l>Quoth he, ye poſts of gods and men,</l>
+               <l>Come near houſe pray, you have done nought</l>
+               <l>Againſt mee, 'tis <hi>Atrides</hi> fault,</l>
+               <l>Of you I ſhall not thinke the worſe,</l>
+               <l>But put the ſaddle oth' right horſe,</l>
+               <l>I know the reaſon why you came, as well</l>
+               <l>As he that ſent you, for the damazell;</l>
+               <l>
+                  <pb n="41" facs="tcp:99842:25"/>Therefore <hi>Patroclus</hi> pray deliver</l>
+               <l>The wench to them, that they may give her</l>
+               <l>To him that ſent them, and wit you well</l>
+               <l>My friends and neighbours, and your cruell</l>
+               <l>Landlord, by all the gods Ile neere</l>
+               <l>With club in hand 'mongſt you appeare,</l>
+               <l>Though 'twere to ſave you all alive,</l>
+               <l>And <hi>Trojans</hi> from your doors to drive,</l>
+               <l>No let them make you all their ſlaves,</l>
+               <l>As for his part, he's mad, and raves;</l>
+               <l>He hath no forecaſt in his noddle</l>
+               <l>The <hi>Greeke</hi> Battalia to modell,</l>
+               <l>That they might 'mongſt their boats be ſafe,</l>
+               <l>He can do nought but fret and chafe.</l>
+            </lg>
+            <lg>
+               <l>Thus when he ſaid, <hi>Patroclus</hi> went,</l>
+               <l>As he was bid, into the tent,</l>
+               <l>And brought <hi>Briſeis</hi> from her needles</l>
+               <l>And ſamplers, to the two towne beedles;</l>
+               <l>And gave her, ſcarce without a grudge,</l>
+               <l>Away they to the navy trudge,</l>
+               <l>
+                  <pb n="42" facs="tcp:99842:26"/>And ſhe along with them did trot,</l>
+               <l>But with a heavy heart, God wot.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Achilles</hi> now, like a great lout,</l>
+               <l>Sate him apart from all the rout,</l>
+               <l>And vex'd becauſe h'had loſt his bride,</l>
+               <l>Sate penſively upon the ſide</l>
+               <l>Oth' ſea that look'd like Muskadine,</l>
+               <l>And thus to's mother he did whine.</l>
+            </lg>
+            <lg>
+               <l>Rearing his fiſts, Mother, quoth hee,</l>
+               <l>In an ill howre you groan'd for mee,</l>
+               <l>Would I had layne ith' parſly-bed</l>
+               <l>Still, if ſo ſoon I muſt be dead,</l>
+               <l>Honor I thought I ſhould have got</l>
+               <l>From <hi>Jove</hi> who gives mee nev'r a jot,</l>
+               <l>But ſcandall, for juſt now <hi>Atrides</hi>
+               </l>
+               <l>Whoſe juriſdiction far and wide is,</l>
+               <l>Hath ſent foot-poſts, who are gone with</l>
+               <l>My concubine ſpight of my teeth,</l>
+            </lg>
+            <lg>
+               <l>His mother being within call</l>
+               <l>By good luck, heard him cry and ball,</l>
+               <l>
+                  <pb n="43" facs="tcp:99842:26"/>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> As with her father ſhe was diving,</l>
+               <l>And catching craw-fiſh for her living,</l>
+               <l>(For ſhe belong'd to Billingſgate,</l>
+               <l>And often times had rid in ſtate,</l>
+               <l>And ſate i'th bottome of a poole,</l>
+               <l>Inthroned in a cucking-ſtoole;)</l>
+               <l>She, hearing him roſe<note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> like a miſt,</l>
+               <l>As wet as though ſhe were bepiſt,</l>
+            </lg>
+            <lg>
+               <l>As ſoon as ſhe cloſe to him came,</l>
+               <l>She ſpake, and call'd him by his name,</l>
+               <l>Stroking him on the head, Pigſny,</l>
+               <l>Quoth ſhe<g ref="char:punc">▪</g> tell me, who made it cry?</l>
+               <l>Speake, tell me which of all the boys</l>
+               <l>Beat it? or tooke away its toys?</l>
+               <l>I'le pay 'em be they one or t'other:</l>
+               <l>Come, dry thine eyes, tell thine own mother.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Achilles,</hi> ſobbing ſtill, thus ſpake,</l>
+               <l>And 'twixt each word his chops did quake,</l>
+               <l>
+                  <pb n="44" facs="tcp:99842:27"/>Why ſhould I tel you? you do know,</l>
+               <l>I'me ſure, already well enough,</l>
+               <l>For in the pariſh there is no man</l>
+               <l>But that doth count you a wiſe woman,</l>
+               <l>But if ſo be I needs muſt tell</l>
+               <l>My cauſe of griefe, thus it befell,</l>
+               <l>We went to <hi>Thebes,</hi> not long agone,</l>
+               <l>The city of <hi>Eetion,</hi>
+               </l>
+               <l>Which our <hi>Greeke</hi> companies did ſack,</l>
+               <l>And brought a world of plunder-back,</l>
+               <l>Which when they had divided fair</l>
+               <l>
+                  <hi>Chryſeis</hi> fell t' <hi>Atrides</hi> ſhare,</l>
+               <l>But afterwards, <hi>Chryſes</hi> the <hi>Flamen</hi>
+               </l>
+               <l>Of <hi>Phaebus,</hi> with ſome other laymen,</l>
+               <l>Wayting on him, came to the boates</l>
+               <l>Of the <hi>Greeke</hi> ſoldiers<note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> with red coates,</l>
+               <l>To ranſome the fair maid, and they meant</l>
+               <l>To give him for her preſent payment,</l>
+               <l>
+                  <pb n="45" facs="tcp:99842:27"/>They brought rich preſents too from their land,</l>
+               <l>For ſtate the ſcepter and the garland</l>
+               <l>Of greate <hi>Apollo,</hi> who's as good</l>
+               <l>At pricks and buts as <hi>Robin Hood,</hi>
+               </l>
+               <l>Thus he made humble ſuplication</l>
+               <l>To all the <hi>Gracian</hi> congregation,</l>
+               <l>But ſpecially, above all others,</l>
+               <l>To both the camp-controuling brothers,</l>
+               <l>Now every <hi>Greeke</hi> except <hi>Atrides,</hi>
+               </l>
+               <l>Preſently on old <hi>Chryſes</hi> ſide is,</l>
+               <l>And in one note do all agree,</l>
+               <l>For's guifts to ſet his daughter free,</l>
+               <l>And give him due reſpect, but onely</l>
+               <l>
+                  <hi>Atrides,</hi> that did love her fondly,</l>
+               <l>Was not contented with his humble</l>
+               <l>Petition, but at it did grumble,</l>
+               <l>And not affording him a civill</l>
+               <l>Anſwer, bid him begon to th'devill,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Chryſes</hi> in wrath went home againe,</l>
+               <l>Whom his friend <hi>Phoebus</hi> heard complaine,</l>
+               <l>
+                  <pb n="46" facs="tcp:99842:28"/>And 'mongſt the <hi>Greeks</hi> ſent a damned weapon</l>
+               <l>Which made the people ſtreight dye heap on</l>
+               <l>Heap, whil'ſt <hi>Apollo</hi>'s poyſonous arrow</l>
+               <l>Flew the <hi>Greek</hi> Army thorough and thorough,</l>
+               <l>Till at the laſt we found a Prophet</l>
+               <l>That told us all the meaning of it,</l>
+               <l>And being a cunning Necromancer,</l>
+               <l>From <hi>Phoebus</hi> Oracle made anſwer<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>Then firſt of all, I did adviſe</l>
+               <l>T' appeaſe the God by ſacrifice,</l>
+               <l>And humbly to intreat his pardon,</l>
+               <l>When <hi>Agamemnon</hi> riſing ſtar'd on</l>
+               <l>Me in a rage, threatned, and ſtorm'd,</l>
+               <l>And what he threatn'd, hath perform'd,</l>
+               <l>For he prepar'd a boat, and fraught her</l>
+               <l>With gifts, and ſent home <hi>Chryſes</hi> daughter,</l>
+               <l>And black ey'd <hi>Greeks</hi> ſent from the Navy</l>
+               <l>To <hi>Phoebus</hi> go to cry peccavi,</l>
+               <l>But which doth vex me moſt, he ſent</l>
+               <l>Juſt now two beedles to my tent,</l>
+               <l>
+                  <pb n="47" facs="tcp:99842:28"/>To bring my girle home for his uſe,</l>
+               <l>Judge you if this ben't an abuſe,</l>
+               <l>Unleſs therefore you help your ſon</l>
+               <l>Some way or other, he's undone,</l>
+               <l>You may go up to high <hi>Olympus</hi>
+               </l>
+               <l>Where <hi>Jupiter</hi> doth live, and him buſs,</l>
+               <l>Then ask (taking him in the mood)</l>
+               <l>If ever you have done him good</l>
+               <l>At heart, by word, or elſe by deed,</l>
+               <l>Hee'd help you now, I'me ſure you'le ſpeed;</l>
+               <l>I've heard you tell i'th chimny corner</l>
+               <l>A tale how that ere I was born or</l>
+               <l>Begot, by your ſole ayd a lowring</l>
+               <l>Cloudy <hi>Saturnius</hi> ſcap'd a ſcowring,</l>
+               <l>When all the reſt of's imps did bragg</l>
+               <l>That they'd their father bind and gagg,</l>
+               <l>The plotters <hi>Pallas,</hi> and <hi>Neptune,</hi> who</l>
+               <l>Was a fiſh-monger, and dame <hi>Juno;</hi>
+               </l>
+               <l>You knowing what they had deſign'd</l>
+               <l>Hindred them <hi>Jupiter</hi> to bind,</l>
+               <l>
+                  <pb n="48" facs="tcp:99842:29"/>Calling with ſpeed up to his ſtarry houſe</l>
+               <l>A luſty fellow nam'd <hi>Briareus,</hi>
+               </l>
+               <l>By all in heaven, but when he on</l>
+               <l>The earth did live, he height <hi>Aegeon;</hi>
+               </l>
+               <l>This fellow had an hundred hands Sir,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> And was a ſtouter man than's Grandſire;</l>
+               <l>And ſate him downe next to <hi>Joves</hi> chare</l>
+               <l>As proud as if h'had been Lord Mayor,</l>
+               <l>While he ſate there, all the immortall</l>
+               <l>Gods dreaded <hi>Jove,</hi> that ſpoyl'd their ſport all,</l>
+               <l>Therefore when next you come to his</l>
+               <l>Houſe, pray put him in mind of this,</l>
+               <l>Then towards him draw your ſtoole nigher,</l>
+               <l>And ſtroake his knees, or ſomething higher,</l>
+               <l>Wiſh him to aſſiſt the <hi>Trojan</hi> pikemen,</l>
+               <l>That they may order matters like men,</l>
+               <l>And that they may the <hi>Graecians</hi> ſlaughter</l>
+               <l>Among their boats, and in the water,</l>
+               <l>
+                  <pb n="49" facs="tcp:99842:29"/>That every one may have enough</l>
+               <l>Of their commander that's ſo gruff,</l>
+               <l>And that it may be to all them knowne;</l>
+               <l>Specially to proud <hi>Agamemnon,</hi>
+               </l>
+               <l>How far he erred from the right</l>
+               <l>Whilſt he the ſtouteſt <hi>Greeke</hi> did ſlight;</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Thetis</hi> anſ'ring him did whine,</l>
+               <l>And from her blood-ſhot eyes flow'd brine;</l>
+               <l>Woes me, my boy, quoth ſhe, accurſt</l>
+               <l>Be the time where in thou wert nurſt,</l>
+               <l>Would thou hadſt ſate ſtill at thy wherry;</l>
+               <l>Without this wrong and ſorrow mery;</l>
+               <l>For now thy life is ſhort and bitter,</l>
+               <l>Thou wer't bewitch'd of all my litter;</l>
+               <l>But yet let me alone, I warrant</l>
+               <l>To <hi>Jupiter</hi> I'le doe thy errand,</l>
+               <l>For I my ſelfe in perſon will</l>
+               <l>Goe to his houſe, <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> upon Snow-hill,</l>
+               <l>
+                  <pb n="50" facs="tcp:99842:30"/>In the meane while ſit here about,</l>
+               <l>Nere home, and at the <hi>Graecians</hi> pout,</l>
+               <l>But meddle not with any fray,</l>
+               <l>I charge you keep out of harmes way;</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                     </lg>
+                  </note> For <hi>Jove,</hi> and all his houſhold a'ter</l>
+               <l>Him, yeſterday went croſſe the water,</l>
+               <l>To th'ſigne of the black boy in Southwarke;</l>
+               <l>To th'Ord'nary to find his mouth worke;</l>
+               <l>Where he intends to fuddle's noſe</l>
+               <l>This fortnight yet, under the roſe;</l>
+               <l>When he comes home, Ile watch my time,</l>
+               <l>And up the hill to's houſe I'le clime,</l>
+               <l>To that houſe which he hath by leaſe-hold,</l>
+               <l>
+                  <note n="†" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> With th' horſe-ſhoe nayl'd upon the thre<g ref="char:EOLhyphen"/>ſhold,</l>
+               <l>Then, as thou told'ſt me, I'le petition't,</l>
+               <l>And I believe I ſhall not miſſe on't,</l>
+            </lg>
+            <lg>
+               <l>Thus when ſh'had ſaid, ſhe did depart,</l>
+               <l>And left him there, vex'd at the heart</l>
+               <l>
+                  <pb n="51" facs="tcp:99842:30"/>For th'wench, which was not long agoe</l>
+               <l>Tooke from him wheth'r he would or no.</l>
+            </lg>
+            <lg>
+               <l>But hold a little, methinkes this is</l>
+               <l>Too long o'th' ſea to leave <hi>
+                     <g ref="char:V">Ʋ</g>liſſes,</hi>
+               </l>
+               <l>Who brought the <hi>Graecians</hi> off'ring, by ſeas,</l>
+               <l>And the girle home again to <hi>Chryſes,</hi>
+               </l>
+               <l>Who now by this time did arive</l>
+               <l>At a wharfe, almoſt, like Queen-hive,</l>
+               <l>Then tooke they downe their ſaile, and maſt,</l>
+               <l>And other tackle, in all haſt;</l>
+               <l>Which when they had i'th' bottom 'ſtow'd,</l>
+               <l>One ſide held water, t'other row'd;</l>
+               <l>Then throwing out their hooks before,</l>
+               <l>They faſtned them, and leapt a ſhore,</l>
+               <l>Then did they bring forth of the hollow</l>
+               <l>Lighter, the Hecatombe for <hi>Apollo,</hi>
+               </l>
+               <l>And next of all, in a black ſcarfe,</l>
+               <l>
+                  <hi>Chyſeis</hi> ſet foot on the wharfe,</l>
+               <l>Her did <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes</hi> full of guile</l>
+               <l>Streight forward lead to the Church ſtile,</l>
+               <l>
+                  <pb n="52" facs="tcp:99842:31"/>There into th' hands of her nowne daddy</l>
+               <l>Having deliver'd her, thus ſayd he,</l>
+            </lg>
+            <lg>
+               <l>O <hi>Chryſes, Atrides</hi> our Cheiftaine,</l>
+               <l>Who had thy daughter, like a thief, tane,</l>
+               <l>Hath ſent me, both to bring her home,</l>
+               <l>And to bring <hi>Phaebus</hi>'s hecatomb,</l>
+               <l>Ith' name of all the <hi>Graecian</hi> dragoons,</l>
+               <l>For he hath ſent a heavy plague on's,</l>
+            </lg>
+            <lg>
+               <l>This ſayd, the girle embrac'd her father.</l>
+               <l>He in his heart is glad he hath her,</l>
+               <l>But almoſt before he could touch her,</l>
+               <l>Each <hi>Greeke</hi> began to play the butcher,</l>
+               <l>For having plac'd in comely wiſe</l>
+               <l>About the greene the ſacrifice,</l>
+               <l>Waſhing their dirty fiſts, they take</l>
+               <l>And offer each an oaten cake,</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Chryſes</hi> ſtretch'd his armes, &amp; pray'd</l>
+               <l>For 'em, as lowd as er'e aſſ bray'd;</l>
+               <l>Give eare, quoth he, to that which I ſay</l>
+               <l>O thou whoſe white Bow guardeth <hi>Chryſa,</hi>
+               </l>
+               <l>
+                  <pb n="53" facs="tcp:99842:31"/>That governeſt <hi>Cylla,</hi> and <hi>Tenedos,</hi>
+               </l>
+               <l>With as much pow'r and might as any does,</l>
+               <l>Thou that before heard'ſt my petitions,</l>
+               <l>And honor'd'ſt me, plaguing the <hi>Graecians,</hi>
+               </l>
+               <l>Heare me I pray thee once againe,</l>
+               <l>For my ſake eaſe them of their paine,</l>
+            </lg>
+            <lg>
+               <l>Thus while he pray'd <hi>Phaebus</hi> attended,</l>
+               <l>Then, after their oriſons ended,</l>
+               <l>They offer'd firſt their cakes of oates,</l>
+               <l>Then dragg'd the beaſts, &amp; cut their throates,</l>
+               <l>And from the fleſh fleying the hide,</l>
+               <l>I'th next place did the legs divide,</l>
+               <l>Ore which with skew'rs they ſtuck the cawle</l>
+               <l>Double, and or'e that gobbets ſmall;</l>
+               <l>This, on cleft wood fetch't out of's garret</l>
+               <l>The old man burnt, powring on't claret;</l>
+               <l>About him many ſcullions were,</l>
+               <l>Each charging a broach like a ſpeare,</l>
+               <l>As ſoone as ere the leggs and guts</l>
+               <l>Were throwne ith'fire, the reſt he cut's</l>
+               <l>
+                  <pb n="54" facs="tcp:99842:32"/>Into ſmall parcels, thus prepar'd</l>
+               <l>They ſtreight were ſpitted by th'black guard.</l>
+            </lg>
+            <lg>
+               <l>As ſoon as all was roaſt enough, and</l>
+               <l>Ready to take up, this cook Ruffian</l>
+               <l>To's truſty turn-ſpits gave the word</l>
+               <l>To bring it to the dreſſer board,</l>
+               <l>The drudg'ry o're, themſelves they placed</l>
+               <l>On their bums, without any grace ſaid;</l>
+               <l>Amongſt them there was none would ſtarve, e're</l>
+               <l>He would conſent to be's owne carver,</l>
+               <l>Nor was there any there that won'd</l>
+               <l>Owne manners, more then did him good;</l>
+               <l>Ev'ry one fell to like a Cormorant,</l>
+               <l>And if he lik'd ought, ſtill call'd for more on't,</l>
+               <l>Till th'were ſo cram'd with beef and mutton,</l>
+               <l>That every one was faine t'unbutton,</l>
+               <l>Untill at laſt there came that happy tide,</l>
+               <l>That ſatiſfi'd ev'ry one's appetite,</l>
+               <l>Then when they ſound that nev'r a chinke</l>
+               <l>Was left for either meat or drinke,</l>
+               <l>
+                  <pb n="55" facs="tcp:99842:32"/>For what remayn'd they g'an to ſnatch all,</l>
+               <l>And with the ſcraps eath fill'd his ſachell,</l>
+               <l>Then dranke they nappy ale in browne bowles,</l>
+               <l>Each fil'd to's neighbour, &amp; ſent round bowles,</l>
+               <l>Which orderly courſe none did omit,</l>
+               <l>Till he was drunke, and 'gan to vomit;</l>
+               <l>Thus all the live-long day theſe tall lads</l>
+               <l>Made <hi>Phaebus</hi> ſport by ſinging ballads,</l>
+            </lg>
+            <lg>
+               <l>All this while <hi>Phaebus</hi> laugh'd and gigl'd,</l>
+               <l>To heare 'im bawle as he were tickl'd,</l>
+               <l>Till night came on, and ſpoyl'd their ſport,</l>
+               <l>then ev'ry one ith' barge did ſnort,</l>
+               <l>They lay like pigs ſpewing and yawning</l>
+               <l>At one another, till day dawning;</l>
+            </lg>
+            <lg>
+               <l>As ſoon as ere day 'gan to peep,</l>
+               <l>They ſhook their eares and out did creep,</l>
+               <l>And homewards did direct their barges,</l>
+               <l>Towards the <hi>Greeke</hi> camp which ſo large is,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</note> Which when <hi>Apollo</hi> ſaw, cry'd he</l>
+               <l>All the wind in mine A—goe w'ye;</l>
+            </lg>
+            <lg>
+               <pb n="56" facs="tcp:99842:33"/>
+               <l>Then up they hoyſ'd their ſayles, and maſt,</l>
+               <l>And the boat ran before the blaſt;</l>
+               <l>And all the way the waves before,</l>
+               <l>As the boat cut them through, did roare;</l>
+               <l>Thus comming to <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> the <hi>Greeke</hi> camp wide,</l>
+               <l>They dragg'd the barge from reach of tide,</l>
+               <l>And propping it up from the water,</l>
+               <l>Amongſt the tents themſelves they ſcatter;</l>
+            </lg>
+            <lg>
+               <l>But all this while the ſturdy ſon,</l>
+               <l>Of <hi>Peleus,</hi> who ſo faſt could run,</l>
+               <l>Sate pouting cloſe by his owne gally,</l>
+               <l>Nor forth againſt the foe did ſally,</l>
+               <l>Nor ever ſtir'd he from his boat,</l>
+               <l>In the Court Martiall to vote;</l>
+               <l>But there he ſate crying, and whining,</l>
+               <l>With very griefe his owne heart pining,</l>
+               <l>Looking as if he were bewitch'd,</l>
+               <l>And yet to fight his fingers itch'd.</l>
+            </lg>
+            <lg>
+               <l>Thus twelve dayes paſs'd, till all the gods</l>
+               <l>With <hi>Jove</hi> return'd to their abodes,</l>
+               <l>
+                  <pb n="57" facs="tcp:99842:33"/>Now in the meane time good-wife <hi>Thetis,</hi>
+               </l>
+               <l>Bearing in mind her ſon's intreaties,</l>
+               <l>From the deeps bottome cut a caper</l>
+               <l>As nimble as any didaper,</l>
+               <l>And up the hill <hi>Olympus</hi> climes,</l>
+               <l>To breath her, in the morne betimes,</l>
+               <l>Where, from the reſt apart, ſhe ſpies</l>
+               <l>
+                  <hi>Saturnius</hi> with <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> ſawcer eyes,</l>
+               <l>On one oth' higheſt ſtumps alone,</l>
+               <l>(For on that hill is many a one)</l>
+               <l>She drawing her a joynt ſtooll nigh,</l>
+               <l>Tickl'd him gently on the thigh</l>
+               <l>With one hand, whilſt to 'ther did ſtroake him</l>
+               <l>Under the chin, then thus beſpoke him;</l>
+            </lg>
+            <lg>
+               <l>Father, if ere in word or deed</l>
+               <l>You receiv'd help from me at need,</l>
+               <l>Fulfill my will, honor my boy,</l>
+               <l>Who among all that came to <hi>Troy</hi>
+               </l>
+               <l>
+                  <pb n="58" facs="tcp:99842:34"/>You have made ſhorteſt liv'd, beſide his</l>
+               <l>Other misfortunes, now <hi>Atrides</hi>
+               </l>
+               <l>Who governes every <hi>Graecian</hi> yeoman,</l>
+               <l>Hath rob'd him of 's beloved lemman;</l>
+               <l>But thou, grave, prudent, heavenly, <hi>Iove,</hi>
+               </l>
+               <l>Let me intreate thee of all love</l>
+               <l>To give the <hi>Trojans</hi> ſtill the day,</l>
+               <l>Till all the <hi>Graecian</hi> Souldiers may</l>
+               <l>Repent of each abuſive action</l>
+               <l>Th' have done, and offer ſatisfaction.</l>
+            </lg>
+            <lg>
+               <l>Thus when ſhe had propoſ'd her ſuite</l>
+               <l>Cloudy <hi>Jove</hi> ſate a good while mute;</l>
+               <l>And anſwering her not one whit,</l>
+               <l>He look'd as though h' had been be—</l>
+               <l>But <hi>Thetis</hi> kept faſt hold of 's knees,</l>
+               <l>And with her hands his leggs did ſqueeze,</l>
+               <l>And vow'd ſhe never would let go</l>
+               <l>Till he had anſwer'd I or no,</l>
+            </lg>
+            <lg>
+               <l>Speake out, quoth ſhe, nere muſe upon 't,</l>
+               <l>Tell me either you will or won't</l>
+               <l>
+                  <pb facs="tcp:99842:34"/>Never fear me, of all the reſt</l>
+               <l>I'me ſure I'me ſhe you care for leaſt.</l>
+            </lg>
+            <lg>
+               <l>Then cloudy <hi>Jupiter,</hi> being vex'd</l>
+               <l>To th' very heart, ſpake theſe words next,</l>
+               <l>D'ſpretious, quoth he, 'twill be fowle worke,</l>
+               <l>
+                  <hi>Juno</hi> will rate me like a <hi>Turke,</hi>
+               </l>
+               <l>Beware of making bate among</l>
+               <l>Us, ſhe, you know, hath a long tongue,</l>
+               <l>You know ſhe's alwayes us'd to ſcold</l>
+               <l>At me, and ſaith I do up hold</l>
+               <l>The <hi>Trojans</hi> royſters in their villany,</l>
+               <l>And never let the <hi>Graecians</hi> kill any,</l>
+               <l>Get you gone, let her not perceive</l>
+               <l>That you have ſpoke to me, and leave</l>
+               <l>The reſt to me, If what I've ſpoken</l>
+               <l>You do diſtruſt, Ile give y' a token,</l>
+               <l>My nod, on that you may rely,</l>
+               <l>And cannot be deceived, for why?</l>
+               <l>From me that is the ſureſt ſigne,</l>
+               <l>Nor is there any word mine,</l>
+               <l>
+                  <pb n="60" facs="tcp:99842:35"/>If I but nodded when 'twas ſpoke,</l>
+               <l>That can be, or reverſ'd, or broke;</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*" place="bottom">
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                     </lg>
+                  </note> This ſaid, he bends his beetle-browes,</l>
+               <l>And's greaſie pate demurely bowes,</l>
+               <l>Thus, while too forward he enclin'd,</l>
+               <l>He could not ſo well hold behind,</l>
+               <l>And not being abl' his wind to: containe,</l>
+               <l>He let a f—that ſhook the mountaine,</l>
+               <l>Thus they; agreed upon the matter,</l>
+               <l>Parted, ſhe rowl'd into the water</l>
+               <l>Downe high <hi>Olympus, Jupiter</hi>
+               </l>
+               <l>Went in a doores, not minding her;</l>
+               <l>Whether as ſoon as he was come,</l>
+               <l>Ev'ry one, riſing of his bum,</l>
+               <l>His children on a row did ſtand,</l>
+               <l>To welcome him with cap in hand,</l>
+               <l>Making a leg, nor did they dare</l>
+               <l>Do any other then ſtand bare,</l>
+               <l>
+                  <pb n="61" facs="tcp:99842:35"/>While tow'rd his chaire he did paſſe by:</l>
+               <l>Then, by the leering caſt of's eye</l>
+               <l>
+                  <hi>Juno</hi> perceiv'd (for ſhe was jealous,</l>
+               <l>And knew he had been 'mongſt good fellows)</l>
+               <l>That with ſome wench he had been private,</l>
+               <l>And ſuch faults ſhe would ne're connive at,</l>
+               <l>Yet could ſhe not thinke with a p—</l>
+               <l>With whom, but <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Thetis</hi> ith' white ſocks</l>
+               <l>She gueſſ'd at; for ſhe was far yonger</l>
+               <l>Then her ſelfe, got by a fiſhmonger,</l>
+               <l>And when ſhe could no longer hold,</l>
+               <l>Thus ſhe at <hi>Jove</hi> began to ſcold;</l>
+            </lg>
+            <lg>
+               <l>Did I but know, thou crafty lecher,</l>
+               <l>What wench was with thee laſt, I'de teach her</l>
+               <l>To be ſo luſty, thou doſt hide</l>
+               <l>What ere thou doſt from me thy bride,</l>
+               <l>By thy good will I ſhould know nought</l>
+               <l>Of what e're thou haſt done or thought,</l>
+            </lg>
+            <lg>
+               <l>Then, on this wiſe, ſtreight her good man</l>
+               <l>To make a grave reply began,</l>
+               <l>
+                  <pb n="62" facs="tcp:99842:36"/>Quoth, he dame <hi>Juno,</hi> hold a blow,</l>
+               <l>Nere expect all I ſay to know,</l>
+               <l>For, though th' art the wife of my boſome,</l>
+               <l>T' ſhall ſcape me hard if ere thou know ſome,</l>
+               <l>But as for what becomes a woman</l>
+               <l>To know, beleeve me, there is no man</l>
+               <l>Shall ſooner know't, but of occult</l>
+               <l>Buſineſſe when I pleaſe to conſult</l>
+               <l>In private, be not you to curious,</l>
+               <l>If you be: I ſhall be as furious.</l>
+            </lg>
+            <lg>
+               <l>Thus he had ſaid, and lowred at her,</l>
+               <l>When <hi>Juno,</hi> 
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> with face broad as plater,</l>
+               <l>Perceiving him ſo touchy, cogged,</l>
+               <l>And made this anſwer, Lord, how dogged</l>
+               <l>You ſpeak? when ere you have been buſy'd, I've</l>
+               <l>Nere, as I know, been too inquiſitive,</l>
+               <l>For me, you may conſult at eaſe</l>
+               <l>O' Gods name about what you pleaſe,</l>
+               <l>Onely, at preſent, my fear great is</l>
+               <l>That you have been collogu'd by <hi>Thetis</hi>
+               </l>
+               <l>
+                  <pb n="63" facs="tcp:99842:36"/>The Oyſter woman, who weares ſocks</l>
+               <l>whiter, for th' moſt part, then her ſmocks,</l>
+               <l>For I beleive I might have ſeen</l>
+               <l>Her to day where I ſhould have been,</l>
+               <l>Had I come early to your bed,</l>
+               <l>Beſides, the nod of your grave head,</l>
+               <l>Or I'me deceiv'd, hath promiſ'd that</l>
+               <l>Forſooth to honour her baſe bratt,</l>
+               <l>You'l be content to run the hazard,</l>
+               <l>Of looſing thouſand <hi>Graecians</hi> as hard.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Jove</hi> who makes clouds as black as pitch,</l>
+               <l>Anſwer'd, faith I think th' art a witch,</l>
+               <l>Of us thou alwayes art ſo jealous,</l>
+               <l>That from thine eyes naught can conceal us,</l>
+               <l>But all thy watching's of no force,</l>
+               <l>'Twill make me hate thee worſe and worſe,</l>
+               <l>And that you will repent d'ye ſee,</l>
+               <l>As for this buſineſs, it ſhall be,</l>
+               <l>If it pleaſe me to have it ſo,</l>
+               <l>Lets hear whether you dare ſay no,</l>
+               <l>
+                  <pb n="64" facs="tcp:99842:37"/>Sit you downe houſwife, and be quiet,</l>
+               <l>If I ſay ought, be you rul'd by it</l>
+               <l>Or elſe, who ere is on thy ſide,</l>
+               <l>Though Gods, I'le clapperclaw thy hide;</l>
+            </lg>
+            <lg>
+               <l>When<note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> broad-fac'd <hi>Juno</hi> had heard this,</l>
+               <l>She ſate her downe as mute as fiſh,</l>
+               <l>And ſtreight-ways down came her proud ſto<g ref="char:EOLhyphen"/>mack,</l>
+               <l>On this, the Gods were all like to make</l>
+               <l>An uprore in the houſe, untill</l>
+               <l>
+                  <hi>Vulcan,</hi> a blackſmith full of skill,</l>
+               <l>That knew what pleaſd his mother beſt,</l>
+               <l>Began this ſpeech among the reſt,</l>
+            </lg>
+            <lg>
+               <l>Theſe <note n="†" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> peſtilent doings are intollerable,</l>
+               <l>Quoth he, that things which are ſo ſmall, are able</l>
+               <l>To ſet us by th' ears, for theſe are things</l>
+               <l>That concerne men, not us two farthings,</l>
+               <l>If this trade hold, as I'me a ſinner,</l>
+               <l>We had as good ne're come to dinner,</l>
+               <l>
+                  <pb n="65" facs="tcp:99842:37"/>'Twill doe us no more good then bare ling,</l>
+               <l>If we can't eate it without ſnarling,</l>
+               <l>And, mother, pray let me perſwade ye,</l>
+               <l>(Although they ſay y'are a wiſe lady)</l>
+               <l>To pleaſe and ſmooth my father up here,</l>
+               <l>That he mayn't ſcold, and ſpoyle our ſupper</l>
+               <l>For, if he will this Thundrer can</l>
+               <l>Turn's all out, he's the better man;</l>
+               <l>But ſpeak him fair, and call him hony,</l>
+               <l>You know good words doe coſt no mony</l>
+               <l>Call him pigſny, chicken, and love,</l>
+               <l>He'l be as gentle as a glove,</l>
+               <l>He'l ſoon be pacify'd by cogging:</l>
+               <l>Whilſt he ſaid this, he fill'd a noggin:</l>
+               <l>Which, ending's ſpeech, he gave to's mother,</l>
+               <l>And, while ſhe dranke, began another,</l>
+               <l>Be not ſo ſad, quoth he, beare up</l>
+               <l>Still mother, and take off your cup,</l>
+               <l>I love you well, I take my oath,</l>
+               <l>And therefore ſhould be very loath</l>
+               <l>
+                  <pb n="66" facs="tcp:99842:38"/>To ſee you wrong'd, but tis in vaine</l>
+               <l>For me, though I would nere ſo faine,</l>
+               <l>To thinke to reſcue you from <hi>Ioue,</hi>
+               </l>
+               <l>Tw'ere eene as good for me nere moue,</l>
+               <l>I know, by this my maymed limb</l>
+               <l>That there is noe incountring him,</l>
+               <l>For by my left leg once he caught</l>
+               <l>Me, I remember, when I ſought</l>
+               <l>To fet you free, won by your prayers,</l>
+               <l>And flung me headlong downe the ſtayers;</l>
+               <l>Twas a long fall, but, God be thanked,</l>
+               <l>At laſt I was caught in a blanket,</l>
+               <l>By honeſt men, whoever them knows,</l>
+               <l>That dwell in a place called Lemnos;</l>
+               <l>There lay I gaſping, and like to dye,</l>
+               <l>With ſcarce any breath in my body,</l>
+            </lg>
+            <lg>
+               <l>Thus when h'had ſay'd, <hi>Iuno</hi> did ſneere,</l>
+               <l>And bid her ſon fill out more beere,</l>
+               <l>Which he did, and gave it about</l>
+               <l>Into the hands of all the rout,</l>
+               <l>
+                  <pb n="67" facs="tcp:99842:38"/>Which ev'ry one totally quaf't, e're</l>
+               <l>It came from's noſe, but what a laughter</l>
+               <l>Did it afford, to to ſee grim <hi>Vulcan</hi>
+               </l>
+               <l>Deliver to each man his full can!</l>
+               <l>Thus did they ſit, and cram, and eate,</l>
+               <l>All the day long untill ſunſet,</l>
+               <l>(You'le ſweare their ſtomach's were ſet ſharpe)</l>
+               <l>
+                  <note n="a" place="bottom">
+                     <lg>
+                        <l>—<gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                     </lg>
+                  </note> 
+                  <hi>Apollo</hi> playing oth' welſh harpe,</l>
+               <l>Then in the nick as they were dining,</l>
+               <l>To them there came waſſellers nine, in,</l>
+               <l>Who did, by turnes, and not at once all,</l>
+               <l>Sing ballads, each with a reſponsall;</l>
+               <l>Now one, then to'ther, put a word in,</l>
+               <l>Then all together ſung the burden,</l>
+               <l>At ſunſet, with a giddy head,</l>
+               <l>Each of e'm reeled home to bed,</l>
+               <l>To that place where <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> the famous hobler,</l>
+               <l>For he was bricklayer, and cobler,</l>
+               <l>
+                  <pb n="68" facs="tcp:99842:39"/>As well as ſmith, of every trade)</l>
+               <l>For each of them a houſe had made,</l>
+               <l>And <hi>Ioue</hi> home to his owne bed crept,</l>
+               <l>Where he ſnor'd, and profoundly ſlept,</l>
+               <l>And with him lay <hi>Iuno</hi> his mate,</l>
+               <l>Rayſ'd from her Wicker chayre of ſtate.</l>
+            </lg>
+         </div>
+         <div n="2" type="part">
+            <pb n="69" facs="tcp:99842:39"/>
+            <head>Homer <hi>A la Mode.</hi>
+            </head>
+            <head type="sub">
+               <hi>The ſecond</hi> Rhapſody.</head>
+            <argument>
+               <head>The Argument.</head>
+               <lg>
+                  <l>The ſecond <hi>Rhapſody,</hi> call'd <hi>Beta,</hi>
+                  </l>
+                  <l>Of Agamemnons dream doth treat a;</l>
+                  <l>Tell's the proceedings oth' Court-leet,</l>
+                  <l>And numbereth the Graecian Fleet.</l>
+               </lg>
+            </argument>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>He Gods that night did ſleepe and ſnort all,</l>
+               <l>And ſo did many a daring mortall,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Wearing on's head a payr of locks</l>
+               <l>Made of the ſpoyles of young colts docks,</l>
+               <l>Onely except <hi>Jove</hi> from that number,</l>
+               <l>Who then, did neither ſleep nor ſlumber.</l>
+               <l>
+                  <pb n="70" facs="tcp:99842:40"/>Not (as ſome write) perplex'd with fleas,</l>
+               <l>But cares, he could not take his eaſe;</l>
+               <l>For he reſolv'd (ſince he had ſaid it)</l>
+               <l>That he would ſtout <hi>Achilles</hi> credit,</l>
+               <l>Though by the death of honeſt fellows</l>
+               <l>To be ſlaine 'mongſt the <hi>Greeke Gondelo's:</hi>
+               </l>
+               <l>Whilſt this, all night, his mind was buſie on,</l>
+               <l>He thought it beſt to ſend a Viſion</l>
+               <l>To great <hi>Atrides</hi> his pavilion,</l>
+               <l>Which he had pitched before <hi>Ilion;</hi>
+               </l>
+               <l>Then, having call'd one to him, the ſage</l>
+               <l>
+                  <hi>Jove</hi> ſent him with this haſty meſſage;</l>
+            </lg>
+            <lg>
+               <l>Be gone, diſpatch, falſe ſhape, toth' place,</l>
+               <l>Where th' <hi>Greeks</hi> intrench, with ſpeedy pace,</l>
+               <l>There goe toth' tent of <hi>Agamemnon,</hi>
+               </l>
+               <l>Whilſt within hearing is, but him, none,</l>
+               <l>And, faithfully, in words at large,</l>
+               <l>Tell him what now I give in charge;</l>
+               <l>Bid him, ſoone as he may, fall to 't,</l>
+               <l>And arme his men, both horſe and foot,</l>
+               <l>
+                  <pb n="71" facs="tcp:99842:40"/>Bid him be ſure arme all his ragged</l>
+               <l>Regiment, of <note n="a" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Greeks,</hi> whoſe haire's ſhagged,</l>
+               <l>Every man with a truſty blade,</l>
+               <l>
+                  <note n="b" place="bottom">
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                     </lg>
+                  </note> From th' Generall to th' Lanſpreſade,</l>
+               <l>For now at laſt, his war-like feet</l>
+               <l>This day ſhall tread in <note n="c" place="bottom">
+                     <lg>
+                        <l>—<gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>—</l>
+                     </lg>
+                  </note> 
+                  <hi>Troy's</hi> broad-ſtreet,</l>
+               <l>The Gods will ſtand no longer doubting,</l>
+               <l>But yeeld the <hi>Trojans</hi> to his routing,</l>
+               <l>And, woe be to them, for by <hi>Juno</hi>'s</l>
+               <l>Pray'rs, they are like t'have many a blew noſe<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>As ſoon as he ſaid this, the dreame</l>
+               <l>Tooke ſwifter flight then boats with ſtream,</l>
+               <l>And almoſt e're one could have cry'd</l>
+               <l>What's this? came where the <hi>Greek</hi> ſhips ride:</l>
+               <l>As for <hi>Atrides,</hi> without rapping</l>
+               <l>At's door, he came and <note n="d" place="bottom">
+                     <lg>
+                        <l>—<gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>—</l>
+                     </lg>
+                  </note> caught him napping,</l>
+               <l>
+                  <pb n="72" facs="tcp:99842:41"/>His ſleep, with odors, not like amber,</l>
+               <l>Backwards, and forwards, fill'd the chamber:</l>
+               <l>He came and peeped o're the teſter</l>
+               <l>Ofs bed, ith' ſhape of gaffer Neſtor;</l>
+               <l>Whom he lov'd moſt of all the Aldermen,</l>
+               <l>Yet among them there were ſome balder men,</l>
+               <l>Though not perhaps ſo old; his viſage</l>
+               <l>The viſion bore, and th'markes of his age.</l>
+            </lg>
+            <lg>
+               <l>Then ſaid, ſleep'ſt thou ſo ſound <hi>Atrides?</hi>
+               </l>
+               <l>Thy ſire, old <hi>Atreus,</hi> would have ply'd his</l>
+               <l>Stumps had he been as thee, his ſoule</l>
+               <l>God reſt, and happy man be's dole;</l>
+               <l>When he dy'd we loſt a ſtout warrier,</l>
+               <l>And, though I ſay't, <note n="e" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> a skilfull farrier,</l>
+               <l>Neighbour, you ought more to regard</l>
+               <l>The publick, then while watch and ward</l>
+               <l>Should be kept by you, to lye ſleeping;</l>
+               <l>You have, committed to your keeping,<note place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>
+               </l>
+               <l>
+                  <pb n="73" facs="tcp:99842:41"/>The publick peace; who ſhall now catch,</l>
+               <l>While you ſleep here, rogues on the watch?</l>
+               <l>Come, marke my councell, for 'tis <hi>Jupiter</hi>'s,</l>
+               <l>That loves thee, as the dee'l lov'd <hi>Hugh Peters,</hi>
+               </l>
+               <l>And, when thou little think'ſt on't, cares</l>
+               <l>For th'management of thy affaires,</l>
+               <l>He bids thee without further ſtops,</l>
+               <l>Arme th' <note n="f" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Greekes,</hi> with heads like whiting, mops;</l>
+               <l>See that you all your forces rally,</l>
+               <l>The Gods will now no longer dally,</l>
+               <l>But yeild up <note n="g" place="bottom">
+                     <lg>
+                        <l>—<gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>—</l>
+                     </lg>
+                  </note> 
+                  <hi>Troy,</hi> with her fair high wayes,</l>
+               <l>Therefore make great haſte, and goe thy wayes</l>
+               <l>About it, <hi>Juno</hi> now prevailes,</l>
+               <l>Therefore woe to the <hi>Trojans</hi> tayles,</l>
+               <l>Take heed you: don't forget ere day</l>
+               <l>(As you uſe) what o're night I ſay,</l>
+               <l>I hope you went not drunk to bed,</l>
+            </lg>
+            <lg>
+               <l>This when the cheating dreame had ſayd</l>
+               <l>
+                  <pb n="74" facs="tcp:99842:42"/>He left him muſing, like an Aſſe,</l>
+               <l>On what ſhould never come to paſſe;</l>
+               <l>He leap'd in's very ſleep for joy,</l>
+               <l>And dream'd of nought but taking <hi>Troy,</hi>
+               </l>
+               <l>His conqueſt now ſeem'd within viewing,</l>
+               <l>But he thought not <note n="a" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> what <hi>Jove</hi> was brewing,</l>
+               <l>For he intended, by next light,</l>
+               <l>To make both parties rue their fight:</l>
+               <l>He wak'd <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> and ſaw his dreame as plaine</l>
+               <l>As if't had ſtood by him againe,</l>
+               <l>Where e're he turn'd, he thought he heard</l>
+               <l>The voyce come from <hi>Neſtor</hi>'s buſh-beard,</l>
+               <l>When he had ſate upright, and ſcratch'd</l>
+               <l>His bum a while, in haſt he catch'd</l>
+               <l>His coat, t'was ſoft made of bucks leather,</l>
+               <l>Thick enough againſt wind and wether,</l>
+               <l>Then did he's plad on's ſhoulders d'on,</l>
+               <l>And buckled too his clouted ſhoon;</l>
+               <l>
+                  <pb n="75" facs="tcp:99842:42"/>Then, thruſting through his belt his elbow,</l>
+               <l>He hung by's ſide his blade of Bilbo,</l>
+               <l>And next, he took a crab-tree-cudgell,</l>
+               <l>With which his father uſ'd to trudge well</l>
+               <l>From towne to towne, this did he cary</l>
+               <l>With him ſtill, as hereditary,</l>
+               <l>Thus walk'd he to the boats accoutr'd,</l>
+               <l>Gladneſſe within, and theſe armes outward.</l>
+            </lg>
+            <lg>
+               <l>By this <hi>Aurora</hi> had giv'n warning</l>
+               <l>To <hi>Jove,</hi> and th'reſt, that it was morning,</l>
+               <l>For ſhe's the chamber-maid, and, early</l>
+               <l>Each morning, calls up thoſe that there lye.</l>
+               <l>When <hi>Agamemnon</hi> ſent the bell-men</l>
+               <l>To exerciſe their throats, and tell men</l>
+               <l>His will, of which the whole purport</l>
+               <l>Was that they all ſhould meet at Court;</l>
+               <l>They came in haſte togeth'r, and then at</l>
+               <l>Old <hi>Nestor</hi>'s barge ſate the grave Senate,</l>
+               <l>Otherwiſe call'd the Common-counſell,</l>
+               <l>Jolly old men that weare fur gownes well</l>
+               <l>
+                  <pb n="76" facs="tcp:99842:43"/>When theſe were met, and when they all at</l>
+               <l>Him ſtar'd, He thus 'gan, like a ballad,</l>
+               <l>(<note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Producing a contrivance, full.</l>
+               <l>Of ſubtilty, from his thick ſcull)</l>
+            </lg>
+            <lg>
+               <l>Good people, friends, and maſters, liſt ye,</l>
+               <l>There did appeare to me, this miſty</l>
+               <l>Night, a ſtrange Ghoſt, that made me tremble,</l>
+               <l>You, <hi>Nestor,</hi> it did much reſemble;</l>
+               <l>Your ſhape, your fat guts, and your geſture,</l>
+               <l>And made this ſpeech from my beds teſter.</l>
+               <l>Can'ſt thou ſleepe, or ſecurely bide here,</l>
+               <l>Thou ſon of <hi>Atreus</hi> 
+                  <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> the horſe-rider?</l>
+               <l>Tis not fit that one in whoſe truſt is</l>
+               <l>The peace-keeping, next to the Juſtice,</l>
+               <l>And Proclamations in his head,</l>
+               <l>Should lye ſo like a thing quite dead,</l>
+               <l>Except for ſnoring, like a carkaſſe,</l>
+               <l>For ſhame riſe, be not ſuch a ſtarke Aſſe,</l>
+               <l>
+                  <pb n="77" facs="tcp:99842:43"/>You well may credi't what I preſage,</l>
+               <l>And pray obey't, for 'tis <hi>Joves</hi> meſſage;</l>
+               <l>
+                  <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Who, though his houſe from your's be far off,</l>
+               <l>Cares for you more then you'r aware of,</l>
+               <l>He counſels you to cloath in mayle</l>
+               <l>All your men, <note n="c" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> tag, rag, and long tayle,</l>
+               <l>And arme each <note n="d" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> ſhaggy pate in hel met,</l>
+               <l>For now your pray'rs the gods have well met,</l>
+               <l>And they no longer will delay,</l>
+               <l>But bring you into <hi>Troyes</hi> 
+                  <note n="e" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> broad way,</l>
+               <l>For <hi>Juno's</hi> pray'rs have turn'd the mind</l>
+               <l>Oth' gods, and <note n="f" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> miſchiefe hang's ith' wind</l>
+               <l>O're <hi>Troy</hi> town, when from you ſleep's baniſh'd</l>
+               <l>Forget not: and away he vaniſh'd.</l>
+               <l>Thus, when the dream had me forſooke,</l>
+               <l>I yawn'd a little, and then woke;</l>
+               <l>Therefore let's forthwith put in armour,</l>
+               <l>As well as we can, each <hi>Greeke</hi> farmer;</l>
+               <l>
+                  <pb n="78" facs="tcp:99842:44"/>One thing by th' way I have projected,</l>
+               <l>To try how they all ſtand affected;</l>
+               <l>To retreat home I'le them perſwade,</l>
+               <l>To try of what mettle they're made,</l>
+               <l>But ſay each of you the Contrary,</l>
+               <l>And give them your advice to tary.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Atrides</hi> thus ſaid, and ſate down,</l>
+               <l>Then <hi>Neſtor</hi> roſe up in's furr gown,</l>
+               <l>An officer <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> in ſandy <hi>Pylus,</hi>
+               </l>
+               <l>Which pariſh from that place three mile was,</l>
+               <l>Who in this ſpeech laid forth his will,</l>
+               <l>According to his Simple skill.</l>
+            </lg>
+            <lg>
+               <l>Friends, whom the town doth not exclude hence,</l>
+               <l>'Cauſe you are <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> ſtout, and of great prudence:</l>
+               <l>Who for each purpoſe cary ſtaves,</l>
+               <l>To keep the peace, and knock down Knaves</l>
+               <l>Had any meane man told this ſtory</l>
+               <l>About a dreame, I'd have been for ye,</l>
+               <l>
+                  <pb n="79" facs="tcp:99842:44"/>And counſel'd you forthwith to pack</l>
+               <l>To <hi>Graecia,</hi> bag and baggage, back,</l>
+               <l>Thinking he ly'd, but now ſince, 'tis he on</l>
+               <l>Whom we depend that ſaw this viſion,</l>
+               <l>Therefore forthwith let lowd alar'mes</l>
+               <l>Warne the <hi>Greeks</hi> to ſtand to their Armes.</l>
+            </lg>
+            <lg>
+               <l>This was old <hi>Neſtor</hi>'s ſpeech, which yet he</l>
+               <l>Had hardly finiſh'd, when <note n="c" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> the petty</l>
+               <l>Conſtables, with their Staves and Maces,</l>
+               <l>Riſe all together from their places,</l>
+               <l>As going forth, with reſolution</l>
+               <l>To put his will in execution,</l>
+               <l>By this the rable rout was coming</l>
+               <l>To court apace, and made a humming</l>
+               <l>For all the world like ſwarmes of Bees,</l>
+               <l>That uſe to live in hollow trees,</l>
+               <l>Which all day long buſi'd about</l>
+               <l>Their work, are going in and out,</l>
+               <l>
+                  <pb n="80" facs="tcp:99842:45"/>And up and downe fly <note n="d" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> in a cluſter</l>
+               <l>From flow'r to flow'r, ſo the <hi>Greeks</hi> muſter,</l>
+               <l>And come in throngs along the ſhore,</l>
+               <l>Whoſe very ſands were ſcarcely more;</l>
+               <l>For <hi>Jove</hi> ſor fear they ſhould not all</l>
+               <l>Have notice, bid <hi>Fame</hi> ſound a call,</l>
+               <l>Which ſhee did with her ſhining trumpet;</l>
+               <l>
+                  <note n="*" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Th'earth ſeem'd to groan they did ſo thump it</l>
+               <l>Before they were all plac'd, there was</l>
+               <l>Amongſt them a confuſed buze;</l>
+               <l>In country churches ſuch confuſion</l>
+               <l>I oft have heard, when tow'rds concluſion</l>
+               <l>The prieſt hath drawne his tedious prayers,</l>
+               <l>Some runing downe the belfry ſtayres,</l>
+               <l>Some more devout clownes, partly gueſſing</l>
+               <l>When he's almoſt come to the bleſſing,</l>
+               <l>Prepare their ſtaves, and riſe at once,</l>
+               <l>Say'ng <hi>Amen,</hi> off their mary bones,</l>
+               <l>
+                  <pb n="81" facs="tcp:99842:45"/>Nine Cri'rs together that were then bound</l>
+               <l>T' attend the Court, on payn of ten pound</l>
+               <l>Proclaimed ſilence, and did make</l>
+               <l>O yes, before <hi>Atrides</hi> ſpake,</l>
+               <l>Then every one in haſt caught roome</l>
+               <l>Where he could find place for his Bum,</l>
+               <l>All huſh't, <hi>Atrides</hi> up did ſtand,</l>
+               <l>Holding his gilt-Staff in his Hand,</l>
+               <l>A Staff which all the reſt for bulk, and</l>
+               <l>Faire ſhape excell'd, firſt made by <hi>Vulcan,</hi>
+               </l>
+               <l>And giv'n to <hi>Jove</hi> the Sun of <hi>Saturne,</hi>
+               </l>
+               <l>When he as Conſtable ſerv'd a turne,</l>
+               <l>
+                  <hi>Jove</hi> makes uſe on't, and when his terme is</l>
+               <l>Expir'd, leaves it to nimble <hi>Hermes;</hi>
+               </l>
+               <l>
+                  <hi>Hermes</hi> reſign'd his mighty Mace</l>
+               <l>To <note n="f" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Carter <hi>Pelops</hi> with his place;</l>
+               <l>
+                  <hi>Pelops</hi> gav't <hi>Atreus</hi> his ſucceeder,</l>
+               <l>He to <hi>Thyeſtes</hi> 
+                  <note n="g" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> the ſheep feeder,</l>
+               <l>
+                  <pb n="82" facs="tcp:99842:46"/>And after <note n="g" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Rich <hi>Thyeſtes</hi> dy'd, his</l>
+               <l>Conſtables Staff he left <hi>Atrides,</hi>
+               </l>
+               <l>With which he govern'd many an Iland,</l>
+               <l>And rul'd his ward, by Sea, and by Land,</l>
+               <l>On this he leane's; and twiſt's about</l>
+               <l>His Leg, and <note n="h" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> ſtreight theſe words fly out:</l>
+            </lg>
+            <lg>
+               <l>My friends, and ſtout Greeks <note n="i" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> that wear his Mars</l>
+               <l>Buff livery upon your A—</l>
+               <l>This damn'd Saturnius hath betray'd me;</l>
+               <l>He ow'd m' a ſhame, and now hath pay'd me,</l>
+               <l>He promis'd me, when I had ta'ne</l>
+               <l>Troy Town, I ſhould come home again,</l>
+               <l>But now I ſee too plain, god's dud's</l>
+               <l>He leaves me baſely in the ſuds,</l>
+               <l>He chargeth us to face about,</l>
+               <l>Now we've receiv'd a gen'ral rout,</l>
+               <l>Theſe are his tricks, h' hath ſhewn his pow'r</l>
+               <l>Oft in the fall of many a Tower,</l>
+               <l>
+                  <pb n="83" facs="tcp:99842:46"/>And yet hee'l batter many a wall,</l>
+               <l>In ſpight of any of us all,</l>
+               <l>The children, yet unborne, here aſter</l>
+               <l>At us ſhall ſtretch their ſides with laughter,</l>
+               <l>If ever they ſhould chance to heare on't</l>
+               <l>That we return'd without our errant,</l>
+               <l>That we ſtaid eight years and a half</l>
+               <l>Before Troy Town, as <hi>Walt<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>'s</hi> Calfe</l>
+               <l>Went nine miles once to ſuck a Bull,</l>
+               <l>We ſhall b' as wiſe as he was full;</l>
+               <l>And yet, for ought as I can ſe,</l>
+               <l>Of this war no end's like to be<g ref="char:punc">▪</g>
+               </l>
+               <l>Though we ſhould make peace with the Trojans</l>
+               <l>And with them take up Friendly lodgings,</l>
+               <l>And if we ſhould divide our men</l>
+               <l>In companies, by ten, and ten,</l>
+               <l>And every ten ſhould take a <note n="i" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Denizon</l>
+               <l>Of <hi>Troy,</hi> to fill him wine to 's Veniſon;</l>
+               <l>
+                  <pb n="84" facs="tcp:99842:47"/>I doubt me many a tenne would lack</l>
+               <l>A man for them to fill out ſack,</l>
+               <l>So far our numb'r, in my account,</l>
+               <l>The <hi>Trojan</hi> Citizens ſurmount,</l>
+               <l>But, beſides theſe, th' auxiliary's</l>
+               <l>Do vex me moſt, mongſt whom each carries</l>
+               <l>A long ſpeare, but for theſe, this burrough</l>
+               <l>Had long ſince been by us run thorough,</l>
+               <l>But now, nine years are paſs'd and gone,</l>
+               <l>As for ſhip-timber, we have none,</l>
+               <l>And, for our uſe we are ſcarce able,</l>
+               <l>Th' are ſo decay'd, to ſtraine a cable,</l>
+               <l>And god Knowes whats done by our wives</l>
+               <l>The while we here venter our lives,</l>
+               <l>Whilſt here our buſineſſe lies undone,</l>
+               <l>Each of us hath an unknown Sonne,</l>
+               <l>Some perhaps more, who do expect us,</l>
+               <l>And if we come not, may neglect us,</l>
+               <l>Therefore, hark all to what I ſay,</l>
+               <l>To morrow wee'l cry weſtward hay,</l>
+               <l>
+                  <pb n="85" facs="tcp:99842:47"/>And hoiſe up for our native ſoyle,</l>
+               <l>Leaving this endleſſe, fruitleſſe toyle;</l>
+               <l>We'l, as we can, our own enjoy,</l>
+               <l>Since here's no hopes of taking Troy.</l>
+               <l>
+                  <note n="k" place="bottom">
+                     <lg>
+                        <l>—<gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                     </lg>
+                  </note> When this was ſay'd, the ſooth to tell ye</l>
+               <l>Each mans heart hop'd within his bellie,</l>
+               <l>Among the throng, but theirs did not</l>
+               <l>Which knew before hand of his plot;</l>
+            </lg>
+            <lg>
+               <l>With this ſpeech each mind homeward bent he,</l>
+               <l>And, <hi>nemine contradicente,</hi>
+               </l>
+               <l>They cry'd like mad men, hay for our town,</l>
+               <l>Juſt as th' <hi>Icarian</hi> waves do pow'r down</l>
+               <l>Their fome oth' ſhore, when ever the ſterne</l>
+               <l>
+                  <hi>Eurus</hi> diſturbs them with his Eaſterne</l>
+               <l>Blaſts, or when <hi>Notus</hi> roaring loud,</l>
+               <l>Ruſheth upon them from a cloud,</l>
+               <l>
+                  <pb n="86" facs="tcp:99842:48"/>Or as fierce <hi>Zephyrus</hi> doth grumble</l>
+               <l>In corne fields, making each ſtalke humble</l>
+               <l>His weighty head; this ſpeech inclin'd</l>
+               <l>Juſt ſo, to a retreat each mind,</l>
+               <l>They ran, and flouriſh'd their Caps or'e 'em,</l>
+               <l>Beating along the duſt before 'em,</l>
+               <l>They lancht their Boats out in all haſt,</l>
+               <l>(<hi>m</hi>) Each lent a Hand, and cry'd havaſt;</l>
+               <l>And when into the Sea they 'd got 'em,</l>
+               <l>Each gan to cleanſe his leaking bottom;</l>
+               <l>After this, twerling round their Mops</l>
+               <l>To dry 'em, they took in their props,</l>
+               <l>Then, as they anchor weigh'd, their cries</l>
+               <l>And joy ful hooting pierc'd the Skies;</l>
+               <l>And reach'd the Ears of great <hi>Joves</hi> dame,</l>
+               <l>Th' had gone elſe as wiſe as they came,<note place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note>
+               </l>
+               <l>
+                  <pb n="87" facs="tcp:99842:48"/>She heard it, as ſhe ſate by <hi>Pallas,</hi>
+               </l>
+               <l>And cry'd, out on a ſuddain, alas!</l>
+               <l>What means this hooping great <hi>Joves</hi> Daughter</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Untamed yet? what is the matter?</l>
+               <l>We 'l never let the Graecian Scullers</l>
+               <l>March homewards thus with folded colours,</l>
+               <l>Ne're ſhall they <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> back grim <hi>Neptunes</hi> billows,</l>
+               <l>Inſteed of Laurels, bearing Willow's,</l>
+               <l>Ne're ſhall they ſtir thence, till they take</l>
+               <l>
+                  <hi>Troy</hi> Town, and <hi>Helen,</hi> for whoſe ſake</l>
+               <l>Many bold Greeks lye, many a mile</l>
+               <l>In cold clay, from their native ſoyle,</l>
+               <l>To the Greek <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Red coats haſte therefore</l>
+               <l>With faire words keep 'em ſtill a ſhore,</l>
+               <l>Let them not draw down to the water</l>
+               <l>Their barges, after all this ſlaughter.</l>
+            </lg>
+            <lg>
+               <l>This when ſhe ſaid, her *wall-ey'd maid</l>
+               <l>Made no more bones on't, but obey'd,</l>
+               <l>
+                  <pb n="88" facs="tcp:99842:49"/>She drop't from th' welkin down, as quick</l>
+               <l>As a Kite ſtriking at a Chick,</l>
+               <l>And, in the turning of a hand,</l>
+               <l>Among the Graecian ſhips did ſtand,</l>
+               <l>And there, according to her wiſhes,</l>
+               <l>Neer his own boat ſhe found <hi>
+                     <g ref="char:V">Ʋ</g>liſſes,</hi>
+               </l>
+               <l>In cunning aequal unto <hi>Jove,</hi>
+               </l>
+               <l>He had not put a hand to ſhove</l>
+               <l>His Boat off ſhore, but there he ſtood,</l>
+               <l>Stamping, and vex'd, as he were wood,</l>
+               <l>
+                  <hi>Minerva,</hi> ſlanding by his ſide;</l>
+               <l>Unto him thus her ſelf apply'd,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Laertes</hi>'s bold and wily Son,</l>
+               <l>Will all the Greeks thus homeward run?</l>
+               <l>
+                  <note n="*" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> They tumbl' as if they could afford</l>
+               <l>To break their necks to get aboard,</l>
+               <l>Will you thus ſimply run away,</l>
+               <l>And leave old <hi>Priamus</hi> the day?</l>
+               <l>
+                  <pb n="89" facs="tcp:99842:49"/>Will you leave here behind the wench,</l>
+               <l>For whoſe ſake, on the <hi>Gracian</hi> trench,</l>
+               <l>And before <hi>I'lium's</hi> curſed walls'</l>
+               <l>Have been cauſ'd many ſtout mens falls?</l>
+               <l>Which, god knows how far off, lye dead</l>
+               <l>From th' pariſh where th'were borne and bred,</l>
+               <l>Make haſte for ſhame, <note n="a" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> make noe demurre,</l>
+               <l>Goe to 'em, and let noe man ſtirre,</l>
+               <l>With your fair words you may perſwade 'em,</l>
+               <l>Let them not lanch their boates, nor lade 'em,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>liſſes</hi> 
+                  <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> knew the wench by'r tone,</l>
+               <l>For ſhe had ſtill a bauling one,</l>
+               <l>He, entertaining a great trouble at</l>
+               <l>Th'intended voyage, doſt't his doublet,</l>
+               <l>And bid a neighbour of his beare it,</l>
+               <l>The weather was too hot to weare it,</l>
+               <l>
+                  <pb n="90" facs="tcp:99842:50"/>Thus, vex'd that's Comrades were ſo unſtable,</l>
+               <l>He met <hi>Atrides</hi> the high Conſtable,</l>
+               <l>To whom, at large, with ſorrow; ſhowing</l>
+               <l>The thing about which he was going,</l>
+               <l>That he might have what to ſhew for it; he</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Borrow'd the Staff of his Authoritie,</l>
+               <l>Which yet was ſound wood, though 'twer bore</l>
+               <l>By many a Conſtable before,</l>
+               <l>With which be'ng arm'd, he walk'd a round</l>
+               <l>The Red-coats quarters, if he ſound</l>
+               <l>There any of the better ſort.</l>
+               <l>Them with this ſpeech he gan to Court,</l>
+            </lg>
+            <lg>
+               <l>Sir, you ſhould not Faint-heart reſemble,</l>
+               <l>And at the enemy's ſight tremble,</l>
+               <l>You ſhould your ſelf, and others order,</l>
+               <l>Be n't in ſuch haſt to go aboard, ere</l>
+               <l>You know what is <hi>Atrides</hi> mind.</l>
+               <l>Perhaps he hath done this to find</l>
+               <l>
+                  <pb n="91" facs="tcp:99842:50"/>How mens affections are bent,</l>
+               <l>And, I believe, 'tis his intent</l>
+               <l>To puniſh, as he finds occaſion,</l>
+               <l>According to this proof, each lazy one,</l>
+               <l>Tis' not yet cleare what he doth drive at;</l>
+               <l>All know not what he ſayd in private;</l>
+               <l>Therefore, good Sir, provoke him not,</l>
+               <l>His anger's fire when once 'tis hot,</l>
+               <l>None of us all dares him abide,</l>
+               <l>As long as <hi>Ioue</hi> is on his ſide:</l>
+            </lg>
+            <lg>
+               <l>But if he met a common ſoldier,</l>
+               <l>Or heard him hoot, <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> a thwart the ſhoulder,</l>
+               <l>He hit him, with's ſtaff of command,</l>
+               <l>Downe to the ground, then bid himſtand,</l>
+               <l>Say'ng: ſirrah, weele provide you ſetters</l>
+               <l>If you can't be rul'd by your betters,</l>
+               <l>
+                  <pb n="92" facs="tcp:99842:51"/>Thou daſtard, ſneaking rogue<g ref="char:punc">▪</g> thou be'ſt</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>—</note> Scarce worthy to have roome ith liſt,</l>
+               <l>What good haſt thou ere done but mutiny?</l>
+               <l>Thou can'ſt nor plot nor execute any,</l>
+               <l>Let's not be maſters all, I pray,</l>
+               <l>Tw'er better one ſhould beare the ſway,</l>
+               <l>Who hath from <hi>Ioue</hi> receiv'd comiſſion,</l>
+               <l>In rule, pray, let's have noe partition;</l>
+            </lg>
+            <lg>
+               <l>Thus, whomſoever he could find</l>
+               <l>In all his walke, he diſciplin'd,</l>
+               <l>Some, with intreates, and ſome, with menaces,</l>
+               <l>He brought back from thier tents and pinaces,</l>
+               <l>To court again, with ſuch a roaring</l>
+               <l>As when the waves doe make the ſhore ring,</l>
+               <l>Which noyſe is echo'd back again</l>
+               <l>By others, further in the maine;</l>
+            </lg>
+            <lg>
+               <l>The reſt were all quietly ſate,</l>
+               <l>Onely <hi>Therſites</hi> 'gan to prate,</l>
+               <l>
+                  <pb n="93" facs="tcp:99842:51"/>Againſt his officers, this beaſt,</l>
+               <l>In lavender ſtill had a jeſt,</l>
+               <l>And what e're he thought would moue laugh<g ref="char:EOLhyphen"/>ter</l>
+               <l>He'd out with't, what ere would come after,</l>
+               <l>No <hi>Greek</hi> was ugly'er, yet this fowle</l>
+               <l>Raſſcalion thought himſelf a droll;</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                     </lg>
+                  </note> He limp'd, and look'd nine way's at once,</l>
+               <l>Diſtorted were his ſhoulder bones,</l>
+               <l>His head, from's forehead to his crowne top,</l>
+               <l>Reſembled much a reverſ'd towne-top,</l>
+               <l>His beard right <hi>China,</hi> and as thin</l>
+               <l>The haire of's head was, as of's chin,</l>
+               <l>This ſcurvy raſcalls humor ſtill is</l>
+               <l>To jeere <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes,</hi> and <hi>Achilles,</hi>
+               </l>
+               <l>He was a lover of ſcurrility,</l>
+               <l>But foe to theſe, and all civility:</l>
+               <l>
+                  <pb n="94" facs="tcp:99842:52"/>He then began thus to deride his</l>
+               <l>Prudent commander, great <hi>Atrides,</hi>
+               </l>
+               <l>On whom all look'd with indignation,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Cauſe he had fool'd their expectation,</l>
+               <l>'Gainſt him he made this ſpeech, ith' middle</l>
+               <l>Oth' Greeks, like ſqueaking ſtring of fiddle,</l>
+            </lg>
+            <lg>
+               <l>What's the news, with you now? what want you</l>
+               <l>
+                  <hi>Atrides,</hi> with a vengeance? han't you</l>
+               <l>Of Gold and Silver more then one tent?</l>
+               <l>And the choice Girles yet y' are not content,</l>
+               <l>All th' captive Wenches, that are under</l>
+               <l>Thirty years, you chooſe out oth' plunder,</l>
+               <l>If any <hi>Trojan</hi> comes to ranſome</l>
+               <l>His ſon, and with him brings a Grand ſumme</l>
+               <l>If we demand it, they'l contemne one</l>
+               <l>Of us, and ask for <hi>Agamemnon,</hi>
+               </l>
+               <l>And then beſides, if that could quiet y'e,</l>
+               <l>Of private tumblers y' have variety,</l>
+               <l>
+                  <pb n="95" facs="tcp:99842:52"/>
+                  <note n="*" place="bottom">
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                     </lg>
+                  </note> It is not right that he who is chief</l>
+               <l>'Mongſt us, ſhould lead us into miſchiefe,</l>
+               <l>And after many an error, and turne,</l>
+               <l>Bring us through Bry'rs, like Jack a Lantern</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Faint hearted Greeks, rather Greek Wenches,</l>
+               <l>Shame to our Camp, and to theſe Benches,</l>
+               <l>Come home again, our markets done,</l>
+               <l>Let's leave this Tyrant here alone,</l>
+               <l>That in Greece he may ne're enjoy</l>
+               <l>Our goods, but ſpend them here in Troy,</l>
+               <l>Let him know, mangre his commands,</l>
+               <l>We may have th' law in our own hands,</l>
+               <l>He keeps <hi>Achilles</hi>'s wench per force,</l>
+               <l>Though then himſelf he can't be worſe,</l>
+               <l>For that good man then made it plain</l>
+               <l>How much he could himſelf contain,</l>
+               <l>
+                  <pb n="96" facs="tcp:99842:53"/>Had he not then his paſſion curb'd,</l>
+               <l>Thou ſhould'ſt have us no more diſturb'd,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>liſſes</hi> heard <hi>Therſites</hi> chide his</l>
+               <l>Commander thus, the bold <hi>Atrides,</hi>
+               </l>
+               <l>Starting up, ſternly he began, ere</l>
+               <l>Th' other had quite done, in this manner,</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Thou prating Jackanapes, <hi>Therſites,</hi>
+               </l>
+               <l>What ere thou ſay'ſt ou't of meer ſpight is,</l>
+               <l>Thoſe that came with us hither ask all,</l>
+               <l>There's not amongſt 'em ſuch a raſcal,</l>
+               <l>Dar'ſt thou againſt the high Conſtable</l>
+               <l>Ith' open court on this wiſe babble?</l>
+               <l>Hold your peace, <note n="*" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> make your foul mouth clean</l>
+               <l>Before his name come there again,</l>
+               <l>You muſt, forſooth, againſt him raile,</l>
+               <l>And be enquiring when he'l ſail,</l>
+               <l>Before there's any of's that know</l>
+               <l>How th' matters of this ſiege will goe,</l>
+               <l>
+                  <pb n="97" facs="tcp:99842:53"/>How we ſhall come off none knows truly,</l>
+               <l>Whether <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> with victory or blewly,</l>
+               <l>What reaſon is't you ſhould condemne one,</l>
+               <l>As here you doe great <hi>Agamemnon,</hi>
+               </l>
+               <l>And baſely caſt into his teeth</l>
+               <l>Thoſe things the <hi>Greeks</hi> honour'd him with?</l>
+               <l>One thing I'le tell thee too to boote,</l>
+               <l>And, as God judge me, I'le ſtand to't,</l>
+               <l>Sirrah, if ever I catch you more</l>
+               <l>Abuſing folkes in this mad humor,</l>
+               <l>May my head off my ſhoulders fall,</l>
+               <l>And let my little boy ne're call</l>
+               <l>Me his owne father, but ſome other</l>
+               <l>That has been dealing with his mother,</l>
+               <l>If I don't of thy Jerkin ſtrip thee,</l>
+               <l>And thy red waſte-coat, and then whip thee,</l>
+               <l>Ifaith I'le pluck thy breeches downe,</l>
+               <l>
+                  <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Some Market day, and through the towne,</l>
+               <l>
+                  <pb n="98" facs="tcp:99842:54"/>I'le drive thee, whining with a carters</l>
+               <l>Long, knotted whip, to thy owne quarters;</l>
+            </lg>
+            <lg>
+               <l>This when he ended, ore's bunch back</l>
+               <l>He tooke him a confounded thwack;</l>
+               <l>The cur <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> duck'd down his head, and whin'd,</l>
+               <l>As howling mongrils, when they find</l>
+               <l>They'r warned too late by the bell</l>
+               <l>Oth' whips approach, from's bleare eyes fell,</l>
+               <l>'Tis hard to ſay wheth'r rhume, or teare,</l>
+               <l>Perhaps 'twas rhume, which ſtill flow'd there,</l>
+               <l>And on's crook-back there roſe a new</l>
+               <l>
+                  <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Great bunch, of color black and blew,</l>
+               <l>Raiſ'd by the crab-tree-cudgel's knobs,</l>
+               <l>He ſits him downe, and ſighs, and ſobs,</l>
+               <l>
+                  <note n="c" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Making foule faces, <note n="d" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> and's wet eyes,</l>
+               <l>And ſnotty noſe, on's ſleeve he dryes,</l>
+               <l>He durſt not ſpeake, he was ſo fear'd,</l>
+               <l>But grin'd, and pull'd the haire off's beard,</l>
+               <l>
+                  <pb n="99" facs="tcp:99842:54"/>The <hi>Graecians,</hi> though th'had ſcarce done cha<g ref="char:EOLhyphen"/>ſing,</l>
+               <l>At that ſight could not forbear laughing,</l>
+               <l>He look'd ſo like a baboon, vex't</l>
+               <l>Then ſaid one to him that ſtood next,</l>
+            </lg>
+            <lg>
+               <l>O Gemony! neighbour, what a bliſſe is</l>
+               <l>This, that we have 'mongſt us <hi>
+                     <g ref="char:V">Ʋ</g>liſſes?</hi>
+               </l>
+               <l>Good he doth practice, and impart,</l>
+               <l>And now (God's bleſſing on his heart)</l>
+               <l>H'has tane a courſe, into this idle</l>
+               <l>Rogues ſland'rous mouth to put a bridle,</l>
+               <l>It ſeems he'l pluck downe his proud ſtomack,</l>
+               <l>Or he's reſolv'd to make his bum ake,</l>
+               <l>Againſt his betters now I'le warrant</l>
+               <l>He'll not rayle, h'had beſt have a care on't,</l>
+            </lg>
+            <lg>
+               <l>Thus talk'd the vulgar, when <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>liſſes,</hi>
+               </l>
+               <l>Who to ſtorme hen-rooſts ſeldome miſſes,</l>
+               <l>Roſe up, and there ſtood by his ſide</l>
+               <l>
+                  <hi>Pallas,</hi> a wench that was wall-ey'd,</l>
+               <l>
+                  <pb n="100" facs="tcp:99842:55"/>In cryers clothes, ſhe cry'd, O yes,</l>
+               <l>And bid the people hold their peace,</l>
+               <l>That the grave ſpeech might reach the eare</l>
+               <l>Of him that ſtood far off, and neare,</l>
+               <l>When all were quiet, ſpake <hi>
+                     <g ref="char:V">Ʋ</g>liſſes,</hi>
+               </l>
+               <l>With ſtaffe in hand, and his ſpeech this is</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Atrides,</hi> all the <hi>Greeks</hi> contrive</l>
+               <l>To make thee th' very'ſt foole alive,</l>
+               <l>Of all their promiſes they faile,</l>
+               <l>Which they made when they hoyſ'd up ſayle</l>
+               <l>From <hi>Argos,</hi> that, till <hi>Troy</hi> was taken,</l>
+               <l>By them you nere ſhould be forſaken,</l>
+               <l>Your regiment of <hi>Gracian</hi> yeomen</l>
+               <l>Do cry like children, or old women,</l>
+               <l>Some two or three meet in a hole</l>
+               <l>Together, their ſtate to condole,</l>
+               <l>Yet none of them knowes what they lack,</l>
+               <l>Unleſſe they'd be brought home pick pack,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> And on my word it is a hard caſe,</l>
+               <l>Now after many a <hi>Greek's</hi> turn'd carkaſſe,</l>
+               <l>
+                  <pb n="101" facs="tcp:99842:55"/>And all have undergone turmoyle,</l>
+               <l>For going home to quit the ſpoyle,</l>
+               <l>Yet I can't blame 'em, I confeſſe</l>
+               <l>I thinke my ſelfe ſhould do no leſſe,</l>
+               <l>'Tis ſad to be kept back by tempeſt,</l>
+               <l>(For any one that doth love them beſt)</l>
+               <l>From's wife and children; ſaid I ſad?</l>
+               <l>Nay, faith, 'twould make a man horne mad,</l>
+               <l>Now almoſt nine yeares are paſt, ſince</l>
+               <l>We came, we'r almoſt in our teens,</l>
+               <l>Therefore no fault with any neighbour,</l>
+               <l>I'le find, ſince ſo much trouble they bore,</l>
+               <l>Let looſers ſpeak, 'tis an affliction,</l>
+               <l>But yet, my friends, ſince honor pricks ye on,</l>
+               <l>Beare a good heart with your hard fare, and</l>
+               <l>Let's ne're bring home a ſleeveleſſe errand,</l>
+               <l>Beſides, among us there's a talke, as</l>
+               <l>If we were cheated here by <hi>Calchas,</hi>
+               </l>
+               <l>Therefore let's ſtay till we have try'd him,</l>
+               <l>And then a heavy death betide him,</l>
+               <l>
+                  <pb n="102" facs="tcp:99842:56"/>And if, at their time, all his propheſies</l>
+               <l>Don't come to paſſe, then quit your offices:</l>
+               <l>All (but a broth'r, or ſo, whoſe ſoule is,</l>
+               <l>I hope, at reſt) know that in <hi>Aulis,</hi>
+               </l>
+               <l>When <hi>Greeks,</hi> with barges that did them bear</l>
+               <l>Made rendezvous, you may remember</l>
+               <l>That by a well in a back-ſide,</l>
+               <l>From whence in troughs did water glide</l>
+               <l>Into the houſe, for th'uſe o'th' kitchin,</l>
+               <l>We kill'd (and <hi>Calchas,</hi> good at witching,</l>
+               <l>Was then in place) a luſty ſteere,</l>
+               <l>God bleſſe the marke, in that place where</l>
+               <l>A ſtreight, wide-ſpreading ſycamore</l>
+               <l>Grew, nigh the well I nam'd before;</l>
+               <l>There then appear'd a cruell dragon,</l>
+               <l>
+                  <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> His neck look'd as if't had red ſhagge on,</l>
+               <l>By <hi>Jupiter</hi>'s will ſo't befell,</l>
+               <l>He crept from under th'lid o'th' well,</l>
+               <l>
+                  <pb n="103" facs="tcp:99842:56"/>There, up the ſycamore, to th'thatch'd</l>
+               <l>Houſe eves he twines, where, newly hatcht,</l>
+               <l>He found young birds, in number eight,</l>
+               <l>The old one th'ninth, which on them ſate,</l>
+               <l>They were young ſparrows, or Tom Tits,</l>
+               <l>I know not which, but at eight bits</l>
+               <l>I'm ſure, <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> though they poore things did chirp, and</l>
+               <l>Tremble, th'were eaten by the ſerpent,</l>
+               <l>And, all this while, th'enraged old one</l>
+               <l>Flew up and downe, and ſeem'd to ſcold on</l>
+               <l>The greedy monſter that had robb'd her,</l>
+               <l>But he contriv'd a ſlight and bobb'd her,</l>
+               <l>For <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> as ſhe flew about, and clap'd her</l>
+               <l>Wings at him, he ſprang forth, and ſnapp'd her,</l>
+               <l>Thus ſoon as he had clear'd the neſt,</l>
+               <l>And eat the old one, and the reſt,</l>
+               <l>
+                  <note n="c" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> The mighty ſon of crafty <hi>Cronus,</hi>
+               </l>
+               <l>Conjur'd him back againe to's owne houſe,</l>
+               <l>
+                  <pb n="104" facs="tcp:99842:57"/>And when wee look'd all about for him,</l>
+               <l>We could find nought but th'well-ſtone o're him,</l>
+               <l>We knew not (it did ſo aſtoniſh us)</l>
+               <l>What by this ſigne <hi>Jove</hi> did admoniſh us:</l>
+               <l>Nor gueſſ'd we what he ſhould foretell</l>
+               <l>By th' ſerpents comming out oth' well,</l>
+               <l>When <hi>Calchas,</hi> ſtreight, the cunning man</l>
+               <l>Thus to unriddle it began,</l>
+               <l>
+                  <note n="d" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>;</note> Why are ye ſilent all and huſh'd,</l>
+               <l>Ye noble <hi>Greeks,</hi> whoſe haire is buſh'd?</l>
+               <l>Wiſe <hi>Jove</hi> hath ſhewne us this portent,</l>
+               <l>
+                  <note n="e" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> We muſt with patience wait th'event,</l>
+               <l>'Twill be a thing <note n="f" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> that will commend</l>
+               <l>The <hi>Graecian</hi> name, world without end,</l>
+               <l>Juſt now you here have ſeen this ſame</l>
+               <l>Serpent eate th'young birds and their dam,</l>
+               <l>The meaning of it I divine,</l>
+               <l>The young birds eight, one more makes nine,</l>
+               <l>
+                  <pb n="105" facs="tcp:99842:57"/>That's th' old one, had there been one more</l>
+               <l>Amongſt them, th' had been halfe a ſcore,</l>
+               <l>This ſhewes that, nine whole years, we ſhall</l>
+               <l>Lay tedious ſiege againſt Troy wall,</l>
+               <l>In the tenth year, by this I ſee 't,</l>
+               <l>We ſhall all enter <note n="a" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Troy's high ſtreet,</l>
+               <l>This <hi>Calchas</hi> ſaid, and ſtill we find</l>
+               <l>All falls out true he er'e divin'd,</l>
+               <l>Therefore, ye <note n="b" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> booted Greeks, couragio</l>
+               <l>Let ſtay this while though 'twere an age ho;</l>
+               <l>Till we take <hi>Priam's</hi> town, and truly</l>
+               <l>If we do not, then <hi>Calchas</hi> you lie.</l>
+            </lg>
+            <lg>
+               <l>This ſaid, all flung their Caps ith' aire,</l>
+               <l>And cry'd out, Sir, your ſpeech is faire;</l>
+               <l>The ſhips, as if they'd rend in peeces,</l>
+               <l>Rang with the praiſes of <hi>
+                     <g ref="char:V">Ʋ</g>liſſes,</hi>
+               </l>
+               <l>
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Ev'ry one there judg'd it as fine</l>
+               <l>A preachment, as er'e from divine</l>
+               <l>
+                  <pb n="106" facs="tcp:99842:58"/>Could be expected, thus they roar'd,</l>
+               <l>Commending largely ev'ry word.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="a" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Old <hi>Neſtor,</hi> us'd to ride about</l>
+               <l>Allway's, by reaſon of the Gout,</l>
+               <l>To make a Speech among them ſtood,</l>
+               <l>Which this wiſe he begun; By th' rood</l>
+               <l>Ye talke like Babes, all, skill'd in rattles,</l>
+               <l>And hobby horſes, more then battles,</l>
+               <l>Where ſhall we find us out evaſions</l>
+               <l>Enough, to ſalve our proteſtations?</l>
+               <l>Muſt that which skilfull men invented,</l>
+               <l>And ſound conveyancers indented,</l>
+               <l>Be now deſpis'd? as <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>;</note> for our ſolemne</l>
+               <l>Cov'nants, and leagues, what muſt befall 'em?</l>
+               <l>To periſh muſt it be their lots</l>
+               <l>In <hi>Greg'ry's</hi> Bonefire, like the Scots?</l>
+               <l>Shall we now violate <note n="c" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>;</note> that agreement,</l>
+               <l>On which we all did take the Sacrament?</l>
+               <l>
+                  <pb n="107" facs="tcp:99842:58"/>And that to which we ſet our hands?</l>
+               <l>If ſo, none ere will take our bands,</l>
+               <l>When we've thought all the live long day on't</l>
+               <l>There will be found no other way on't</l>
+               <l>Then to ſtay out our time with patience,</l>
+               <l>And that is now not many daies hence,</l>
+               <l>
+                  <note n="a" place="bottom">
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>,</l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                     </lg>
+                  </note> 
+                  <hi>Atrides,</hi> to your purpoſe ſtand,</l>
+               <l>And ſtill continue your command</l>
+               <l>Over the Greeks, if any be</l>
+               <l>Mongſt them (As there's but two or three)</l>
+               <l>Who from the reſt conſult apart;</l>
+               <l>You need not value them a f—</l>
+               <l>Bid 'em be hang'd, or kiſs your a—</l>
+               <l>For, let them do their beſt, they'l ſcarce</l>
+               <l>Find their way homewards, till we know</l>
+               <l>Whether <hi>Jove</hi> fools us, I, or noe,</l>
+               <l>This I'me ſure, <note n="b" place="bottom">
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                     </lg>
+                  </note> when we went aboard,</l>
+               <l>Bringing for <hi>Troy</hi> town fire, and ſword,</l>
+               <l>
+                  <pb n="108" facs="tcp:99842:59"/>
+                  <hi>Jove</hi> gave's a paſs, and did expreſſe,</l>
+               <l>By favorable ſignes no leſs,</l>
+               <l>For then <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> his lightning, to our wonder,</l>
+               <l>Shew'd us the way, and his lowd thunder,</l>
+               <l>In conſort with our drum's, did beat us</l>
+               <l>A march, pray therefore never let us</l>
+               <l>Think of returning back to Greece,</l>
+               <l>Without a <hi>Trojan</hi> Girle a piece,</l>
+               <l>Let no man think of his own dwelling,</l>
+               <l>Ere he hath been reveng'd for <hi>Helen,</hi>
+               </l>
+               <l>
+                  <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> But if there's any that's ſo ſterne,</l>
+               <l>That will in ſpight of us returne,</l>
+               <l>Let him but touch his barge <note n="c" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> well plank'd,</l>
+               <l>And ſtreight, with death, he ſhall be thank'd,</l>
+               <l>For you <hi>Atrides,</hi> though y'are wiſe,</l>
+               <l>Pray take, as well as give advice,</l>
+               <l>What I ſay, though it doth not proffit,</l>
+               <l>You'l not be th' worſe for th' hearing of it,</l>
+               <l>
+                  <pb n="109" facs="tcp:99842:59"/>Then, briefly, thus I do adviſe,</l>
+               <l>Divide your men by companies;</l>
+               <l>So files will help files, in each ſquadron</l>
+               <l>So may you find out who ere's a drone,</l>
+               <l>This if by your command you doe,</l>
+               <l>What each man doth will lie in view,</l>
+               <l>
+                  <note n="a" place="bottom">
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                     </lg>
+                  </note> Then, if you take not <hi>Troy,</hi> you'l know</l>
+               <l>The cauſe on't, how it happens ſo,</l>
+               <l>Whether it be long of <hi>Joves</hi> will,</l>
+               <l>Or of our Souldiers want of skill,</l>
+               <l>'Twill put a ſtop 'gainſt all profaning</l>
+               <l>The gods, if't hap for want of trayning,</l>
+            </lg>
+            <lg>
+               <l>Then thus <hi>Atrides</hi> made him anſwer</l>
+               <l>
+                  <note n="b" place="bottom">
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                     </lg>
+                  </note> Nay, by my faykins now, old grandſire,</l>
+               <l>You ſtill do go beyond the young</l>
+               <l>Greeks, in the ſmoothneſſe of your Tongue,</l>
+               <l>
+                  <pb n="110" facs="tcp:99842:60"/>I would to <hi>Jove, Phaebus,</hi> and <hi>Pallas,</hi>
+               </l>
+               <l>We had ten men amongſt us all, as</l>
+               <l>Well bred as you, to Read and Write,</l>
+               <l>Then ſhould <hi>Troy</hi> town, to day, ere night,</l>
+               <l>Be brought, by all our hands, to ruine,</l>
+               <l>Wee'd ope the gates, and let all you in.</l>
+               <l>But alas <hi>Jove</hi> with's <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Goats-skin mantle</l>
+               <l>Doth ſomewhat ſcurvily me handle,</l>
+               <l>
+                  <note n="b" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> And thruſts me into brauls, and brables,</l>
+               <l>Whence none to ſet himſelf free able's,</l>
+               <l>For you know how, about the Girle, I</l>
+               <l>And ſtout <hi>Achilles</hi> did grow ſurly</l>
+               <l>With one an other, <note n="c" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> the affront,</l>
+               <l>I found, in coole blood thinking ont,</l>
+               <l>I gave him firſt, but if again</l>
+               <l>He would conſult with me, why then</l>
+               <l>Wee'd by no means delay to murther</l>
+               <l>Theſe miſcreants <note n="d" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> one minute further</l>
+               <l>
+                  <pb n="111" facs="tcp:99842:60"/>For th' preſent go all to your ſuppers,</l>
+               <l>And after that, have at their cruppers,</l>
+               <l>Each rub's ſpear, ſurbuſh up his ſhield,</l>
+               <l>Arme ye at all points for the field,</l>
+               <l>
+                  <note n="e" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> You of the Cavalry, by all meanes</l>
+               <l>Give your Horſe ſtore of Oates and Beanes,</l>
+               <l>Give 'em freſh litt'r, and rub their heeles,</l>
+               <l>You Wagoners, liquor your wheeles,</l>
+               <l>That all the day long we may fight,</l>
+               <l>Till we be parted by dark night,</l>
+               <l>I'le ſet you all ſo hard a working,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>—</l>
+                     </lg>
+                  </note> That ev'ry one ſhall ſweat through's Jerkin,</l>
+               <l>And all the while the Drums ſhall ſtrike up,</l>
+               <l>Whilſt any man can hold his Pike up,</l>
+               <l>The teeors ſhall ſweat too, and take paines,</l>
+               <l>That draw along our laden waines,</l>
+               <l>If any of you I ſee hanker</l>
+               <l>Here, nigh the Boates that ride at anchor,</l>
+               <l>
+                  <pb n="112" facs="tcp:99842:61"/>'Twill be well for that Jackanapes,</l>
+               <l>If he the Dogs and Kites eſcapes,</l>
+            </lg>
+            <lg>
+               <l>This when h' had ſpoke, the Greeks cry'd hilo</l>
+               <l>With ſuch a noiſe as when a billow</l>
+               <l>The North wind 'gainſt a ſteep rock daſhes,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                     </lg>
+                  </note> Which waves, on each ſide driven, waſhes</l>
+               <l>So ſtanding in the mid'ſt oth' flood,</l>
+               <l>That no wind ever blow's it good,</l>
+               <l>They riſe and with ſhout's ſtrain their throats,</l>
+               <l>Scat'ring themſelves among the Boats,</l>
+               <l>Then through the camp they made great bone<g ref="char:EOLhyphen"/>fires,</l>
+               <l>And ſup'd, with mutton broyld upon fires,</l>
+               <l>
+                  <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.—.</note> And each ſaid over a roſary</l>
+               <l>To's ſev'ral Saint, with <hi>Ave Mary,</hi>
+               </l>
+               <l>Adding to all the reſt this prayer,</l>
+               <l>To come from field alive, and fayr,</l>
+               <l>
+                  <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> And that he might come off from grim</l>
+               <l>
+                  <hi>Mars</hi> his aſſaults, ſound, wind, and limb,</l>
+               <l>
+                  <pb n="113" facs="tcp:99842:61"/>
+                  <hi>Atrides,</hi> 'mongſt the reſt, did call</l>
+               <l>On <hi>Jove,</hi> and kill'd an Ox from's ſtall,</l>
+               <l>Of five years old, and for the beſt</l>
+               <l>Oth' pariſh, with him, made a feaſt,</l>
+               <l>But to him there came nev'r a gueſt, or</l>
+               <l>Neighbor, before jolly old <hi>Nestor,</hi>
+               </l>
+               <l>
+                  <hi>Idomeneus,</hi> next, made one more,</l>
+               <l>Then the two <hi>Ajaxes</hi> made fowre,</l>
+               <l>In the fifth place came <hi>Diomedes,</hi>
+               </l>
+               <l>And ſixth <hi>
+                     <g ref="char:V">Ʋ</g>liſſes</hi> came, to feed his</l>
+               <l>Ungodly gut, <note n="*" place="bottom">—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> his braines as full</l>
+               <l>Of plots, and crotchets, as <hi>Ioves</hi> ſcull;</l>
+               <l>Then <hi>Menelaus</hi> 
+                  <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> good at bauling,</l>
+               <l>For's wide throat fam'd, came without calling,</l>
+               <l>His throat perhaps at table better,</l>
+               <l>There he was counted no ſmall eater,</l>
+               <l>Thither he came of's own accord,</l>
+               <l>Knowing his brother kept good boord,</l>
+               <l>
+                  <pb n="114" facs="tcp:99842:62"/>
+                  <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Theſe eight ſate rownd then to be brief,</l>
+               <l>And preſently up comes the Beef,</l>
+               <l>They draw their Knives, and take their loaves,</l>
+               <l>Then ſaid <hi>Atrides,</hi> let's crave <hi>Jove's</hi>
+               </l>
+               <l>Bleſſing, and having ſaid his grace,</l>
+               <l>Holding his hat before his face,</l>
+               <l>Whil'ſt the meat coold piec'd out his prayer,</l>
+               <l>With theſe words, or ſuch like as they are;</l>
+               <l>
+                  <note n="c" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Moſt powerful, and glorious <hi>Jove,</hi>
+               </l>
+               <l>That doſt inhabit th' Heavens above</l>
+               <l>The Clouds, grant ere the Sun go down,</l>
+               <l>I may demoliſh <hi>Priam's</hi> Town</l>
+               <l>With wildfire, <note n="d" place="bottom">
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                     </lg>
+                  </note> and pay <hi>Hector's,</hi> jacket,</l>
+               <l>And at one blow in two may hack it,</l>
+               <l>And put the Noſes in the gutter</l>
+               <l>Of his comrades, that makes this clutter.</l>
+            </lg>
+            <lg>
+               <pb n="115" facs="tcp:99842:62"/>
+               <l>Thus while he pray'd <hi>(e) Iove,</hi> all the while;</l>
+               <l>Did nought but laugh in's ſleeves, and ſmile</l>
+               <l>Biteing his Lips, to hear him cog,</l>
+               <l>I, quoth he, when the Dev'l's a Hog,</l>
+               <l>And thus as ſoon as grace was ſayd,</l>
+               <l>And ev'ry one had took him bread,</l>
+               <l>
+                  <hi>Atrides</hi> took the paynes to ſerve</l>
+               <l>His gueſts, and to them all to carve</l>
+               <l>Firſt, tow'rds his Trencher he drew't nigh,</l>
+               <l>And then the Gooze did ſcarifie,</l>
+               <l>Then from the reſt he pull'd it clean,</l>
+               <l>And with it ſent ſome fat and lean</l>
+               <l>That thoroughly had not been boyl'd,</l>
+               <l>Down to the Scullions, to be broyl'd,</l>
+               <l>This they did, o're a fire of cleft wood,</l>
+               <l>And broyl'd the Tripes oth'coals oth'left wood,</l>
+               <l>Thus, having their Beef and Tripes dres't,</l>
+               <l>They chop'd, and joynted all the reſt,<note place="bottom">*—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>
+               </l>
+               <l>
+                  <pb n="116" facs="tcp:99842:63"/>Which ſome no ſooner had quite fitted,</l>
+               <l>But th' were by others tooke and ſpitted,</l>
+               <l>
+                  <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> The turn-ſpits roſted it with ſtedy</l>
+               <l>Hand, and took't up when it was ready:</l>
+               <l>
+                  <hi>Atrides,</hi> having carved round:</l>
+               <l>Cut's for himſelfe at leaſt five pound,</l>
+               <l>Putting 't on's trencher, to't doth fall,</l>
+               <l>Say'ng, now I hope I've pleaſ'd you all,</l>
+               <l>
+                  <note n="c" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> The cookes too, having done, were ſet</l>
+               <l>At table hay fellow well met,</l>
+               <l>The meaneſt ſcullion had like cheere</l>
+               <l>With the ſufficient'ſt man ſate there:</l>
+               <l>Thus they allay'd their hung'r and thirſt,</l>
+               <l>Then ſpake old <hi>Neſtor</hi> theſe words, firſt:</l>
+            </lg>
+            <lg>
+               <l>Right worſhipful, our great commander</l>
+               <l>
+                  <hi>Atrides,</hi> let's no longer ſtand here,</l>
+               <l>Let's by no means ſeem to put off, or</l>
+               <l>Abuſe th' occaſion the Gods proffer,</l>
+               <l>
+                  <pb n="117" facs="tcp:99842:63"/>Send about cryers to give notice</l>
+               <l>To ev'ry Greek who at his boat is,</l>
+               <l>No longer let us here hold prattle,</l>
+               <l>But quickly rally, and joyne battle;</l>
+            </lg>
+            <lg>
+               <l>This <hi>Neſtor</hi> had no ſooner ſay'd,</l>
+               <l>But <hi>Agamemnon</hi> ſtreight obey'd</l>
+               <l>And bid the bauling cryers rouſe</l>
+               <l>The ſleeping Greeks to rendezvous,</l>
+               <l>They call'd <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> the Graecians with curl'd locks,</l>
+               <l>And they came thronging in by flocks,</l>
+               <l>
+                  <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Some corporall's that liv'd on ſpoyles</l>
+               <l>And what god ſent 'em, through the files</l>
+               <l>March'd with <hi>Atrides,</hi> crying, this ſtands</l>
+               <l>Too near his fellow, keep your diſtance;</l>
+               <l>Thus they with him, ſurvey'd both flanks,</l>
+               <l>Paſſing through all the files, and ranks,</l>
+               <l>Amongſt theſe ſwaſhing ſword-men, came</l>
+               <l>An ugly, <note n="a" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> blear-ey'd, ramping, dame,</l>
+               <l>
+                  <pb n="118" facs="tcp:99842:64"/>
+                  <note n="b" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> In a ſhort peticote ſhe was clad,</l>
+               <l>Time could not change it, 'twas ſo bad,</l>
+               <l>Old fringe 'twas trim'd with, on which, rows</l>
+               <l>There hang'd, of tinſel, deckt with oes,</l>
+               <l>Well worth a hundred pound (believe it)</l>
+               <l>Of that mans mony that would give it,</l>
+               <l>Thus, like a Bedlam to and fro</l>
+               <l>She frisk'd, and <note n="c" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> egg'd 'em on to goe,</l>
+               <l>And at laſt, witch'd 'em in that plight,</l>
+               <l>That they were allmoſt mad to fight,</l>
+               <l>That ev'ry man there would have choſe</l>
+               <l>Rather by half a bloody noſe,</l>
+               <l>Then to have free leave home to ſayle</l>
+               <l>To <hi>Argos</hi> with a proſp'rous gale,</l>
+            </lg>
+            <lg>
+               <l>As when the fire furiouſly ruſhes</l>
+               <l>O're a a hils top, through dry furſ-buſhes,</l>
+               <l>More and more ſtill amain it blazes,</l>
+               <l>And at it all the country gazes,</l>
+               <l>
+                  <pb n="119" facs="tcp:99842:64"/>So while the Greeks march'd, at the glaring</l>
+               <l>Of their bright armes, the god's ſtood ſtaring,</l>
+               <l>As flocks of wild-fowle fly together,</l>
+               <l>(Whither wild Geeſe, or Cranes, or whether</l>
+               <l>Swans with long necks) they clap their wings,</l>
+               <l>And with their noiſe the whole Fen rings,</l>
+               <l>So towards <hi>Scamander's</hi> flowry banks</l>
+               <l>Did march the Graecian Files, and ranks,</l>
+               <l>The very ground did roare agen,</l>
+               <l>Beat with the <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> hoofs of horſe, and men,</l>
+               <l>Their number vy'd with Summers Flowers,</l>
+               <l>Or leaves brought forth by <hi>April</hi> ſhowres,</l>
+               <l>Or might compare with flyes, when th' ayre is</l>
+               <l>Soultry, that fly about the dayrys,</l>
+               <l>So numerous a force did rally</l>
+               <l>Before <hi>Troy</hi> Town, then, in that Vally,</l>
+               <l>Then, juſt as neighbors highly Piglie,</l>
+               <l>Let their beaſts graze, but then can quicklie,</l>
+               <l>Knowing the eare marke of their own,</l>
+               <l>Spy 'em from ev'ry one's i'th Town,</l>
+               <l>
+                  <pb n="120" facs="tcp:99842:65"/>And, doing dammage againſt no man,</l>
+               <l>When they pleaſe, take them from the common,</l>
+               <l>So, ere they did begin the ſport,</l>
+               <l>Each officer his men did ſort</l>
+               <l>From all the reſt, then when th' were ready,</l>
+               <l>Them up againſt the <hi>Trojans</hi> lead he,</l>
+               <l>They march'd, the van <hi>Atrides</hi> lead,</l>
+               <l>His ſtaring Eyes, and beetle head,</l>
+               <l>Were like great <hi>Iupiter</hi> the thunderer's,</l>
+               <l>His belt reſembled <hi>Mars</hi> the plunderer's,</l>
+               <l>His breſt like <hi>Neptune's,</hi> thus to battle,</l>
+               <l>Like one Bull 'mongſt ſo many cattle,</l>
+               <l>He lead the men of his own Town,</l>
+               <l>Thus that day <hi>Iove</hi> gave him renown,</l>
+               <l>And over's neighbors, ſet this beaſt,</l>
+               <l>Exalting's horne above the reſt.</l>
+            </lg>
+            <argument>
+               <p>The remnant of this Second Rhapſody, being onely a bead-roll of hard Names, was purpoſely left out.</p>
+            </argument>
+            <trailer>The END.</trailer>
+            <pb facs="tcp:99842:65"/>
+         </div>
+      </body>
+   </text>
+</TEI>
